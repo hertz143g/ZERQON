@@ -1,0 +1,842 @@
+[
+  {
+    "width": 320,
+    "route": "/",
+    "h1": 1,
+    "overflow": false,
+    "text": [
+      {
+        "ratio": 4.48,
+        "selector": "SPAN.",
+        "size": 16,
+        "text": "Наши компании"
+      }
+    ]
+  },
+  {
+    "width": 320,
+    "route": "/about",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 320,
+    "route": "/companies",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 320,
+    "route": "/companies/chainso",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 320,
+    "route": "/companies/hospitality",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 320,
+    "route": "/companies/atlas",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 320,
+    "route": "/companies/nexus",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 320,
+    "route": "/companies/orbit",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 320,
+    "route": "/labs",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 320,
+    "route": "/ventures",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 320,
+    "route": "/technologies",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 320,
+    "route": "/contact",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 320,
+    "route": "/privacy",
+    "h1": 1,
+    "overflow": true,
+    "text": []
+  },
+  {
+    "width": 320,
+    "route": "/legal",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 375,
+    "route": "/",
+    "h1": 1,
+    "overflow": false,
+    "text": [
+      {
+        "ratio": 4.48,
+        "selector": "SPAN.",
+        "size": 16,
+        "text": "Наши компании"
+      }
+    ]
+  },
+  {
+    "width": 375,
+    "route": "/about",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 375,
+    "route": "/companies",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 375,
+    "route": "/companies/chainso",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 375,
+    "route": "/companies/hospitality",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 375,
+    "route": "/companies/atlas",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 375,
+    "route": "/companies/nexus",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 375,
+    "route": "/companies/orbit",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 375,
+    "route": "/labs",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 375,
+    "route": "/ventures",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 375,
+    "route": "/technologies",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 375,
+    "route": "/contact",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 375,
+    "route": "/privacy",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 375,
+    "route": "/legal",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 390,
+    "route": "/",
+    "h1": 1,
+    "overflow": false,
+    "text": [
+      {
+        "ratio": 4.48,
+        "selector": "SPAN.",
+        "size": 16,
+        "text": "Наши компании"
+      }
+    ]
+  },
+  {
+    "width": 390,
+    "route": "/about",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 390,
+    "route": "/companies",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 390,
+    "route": "/companies/chainso",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 390,
+    "route": "/companies/hospitality",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 390,
+    "route": "/companies/atlas",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 390,
+    "route": "/companies/nexus",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 390,
+    "route": "/companies/orbit",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 390,
+    "route": "/labs",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 390,
+    "route": "/ventures",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 390,
+    "route": "/technologies",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 390,
+    "route": "/contact",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 390,
+    "route": "/privacy",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 390,
+    "route": "/legal",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 430,
+    "route": "/",
+    "h1": 1,
+    "overflow": false,
+    "text": [
+      {
+        "ratio": 4.48,
+        "selector": "SPAN.",
+        "size": 16,
+        "text": "Наши компании"
+      }
+    ]
+  },
+  {
+    "width": 430,
+    "route": "/about",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 430,
+    "route": "/companies",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 430,
+    "route": "/companies/chainso",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 430,
+    "route": "/companies/hospitality",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 430,
+    "route": "/companies/atlas",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 430,
+    "route": "/companies/nexus",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 430,
+    "route": "/companies/orbit",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 430,
+    "route": "/labs",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 430,
+    "route": "/ventures",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 430,
+    "route": "/technologies",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 430,
+    "route": "/contact",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 430,
+    "route": "/privacy",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 430,
+    "route": "/legal",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 768,
+    "route": "/",
+    "h1": 1,
+    "overflow": false,
+    "text": [
+      {
+        "ratio": 4.48,
+        "selector": "SPAN.",
+        "size": 16,
+        "text": "Наши компании"
+      }
+    ]
+  },
+  {
+    "width": 768,
+    "route": "/about",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 768,
+    "route": "/companies",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 768,
+    "route": "/companies/chainso",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 768,
+    "route": "/companies/hospitality",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 768,
+    "route": "/companies/atlas",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 768,
+    "route": "/companies/nexus",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 768,
+    "route": "/companies/orbit",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 768,
+    "route": "/labs",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 768,
+    "route": "/ventures",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 768,
+    "route": "/technologies",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 768,
+    "route": "/contact",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 768,
+    "route": "/privacy",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 768,
+    "route": "/legal",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 1024,
+    "route": "/",
+    "h1": 1,
+    "overflow": false,
+    "text": [
+      {
+        "ratio": 4.48,
+        "selector": "SPAN.",
+        "size": 16,
+        "text": "Наши компании"
+      }
+    ]
+  },
+  {
+    "width": 1024,
+    "route": "/about",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 1024,
+    "route": "/companies",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 1024,
+    "route": "/companies/chainso",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 1024,
+    "route": "/companies/hospitality",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 1024,
+    "route": "/companies/atlas",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 1024,
+    "route": "/companies/nexus",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 1024,
+    "route": "/companies/orbit",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 1024,
+    "route": "/labs",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 1024,
+    "route": "/ventures",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 1024,
+    "route": "/technologies",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 1024,
+    "route": "/contact",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 1024,
+    "route": "/privacy",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 1024,
+    "route": "/legal",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 1440,
+    "route": "/",
+    "h1": 1,
+    "overflow": false,
+    "text": [
+      {
+        "ratio": 4.48,
+        "selector": "SPAN.",
+        "size": 16,
+        "text": "Наши компании"
+      }
+    ]
+  },
+  {
+    "width": 1440,
+    "route": "/about",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 1440,
+    "route": "/companies",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 1440,
+    "route": "/companies/chainso",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 1440,
+    "route": "/companies/hospitality",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 1440,
+    "route": "/companies/atlas",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 1440,
+    "route": "/companies/nexus",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 1440,
+    "route": "/companies/orbit",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 1440,
+    "route": "/labs",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 1440,
+    "route": "/ventures",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 1440,
+    "route": "/technologies",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 1440,
+    "route": "/contact",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 1440,
+    "route": "/privacy",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 1440,
+    "route": "/legal",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 1920,
+    "route": "/",
+    "h1": 1,
+    "overflow": false,
+    "text": [
+      {
+        "ratio": 4.48,
+        "selector": "SPAN.",
+        "size": 16,
+        "text": "Наши компании"
+      }
+    ]
+  },
+  {
+    "width": 1920,
+    "route": "/about",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 1920,
+    "route": "/companies",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 1920,
+    "route": "/companies/chainso",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 1920,
+    "route": "/companies/hospitality",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 1920,
+    "route": "/companies/atlas",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 1920,
+    "route": "/companies/nexus",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 1920,
+    "route": "/companies/orbit",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 1920,
+    "route": "/labs",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 1920,
+    "route": "/ventures",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 1920,
+    "route": "/technologies",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 1920,
+    "route": "/contact",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 1920,
+    "route": "/privacy",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  },
+  {
+    "width": 1920,
+    "route": "/legal",
+    "h1": 1,
+    "overflow": false,
+    "text": []
+  }
+]

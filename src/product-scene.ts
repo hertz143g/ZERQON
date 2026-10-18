@@ -43,16 +43,17 @@ export function initProductScene(container:HTMLElement){
  const viewport=matchMedia('(min-width:1001px)');let visible=false,raf=0,disposed=false,healthy=true,elapsed=0,last=performance.now(),replaying=false,finished=false;
  const smooth=(x:number)=>T.MathUtils.smootherstep(x,0,1);
  const button=container.closest('.project')?.querySelector<HTMLButtonElement>('.replay-motion');
+ const buttonState=(busy:boolean)=>{if(!button)return;button.disabled=busy;button.setAttribute('aria-busy',String(busy));button.innerHTML=busy?'Сборка устройства…':'Повторить сборку <span aria-hidden="true">↻</span>';};buttonState(true);
  function draw(now:number){raf=0;if(disposed||!healthy||!visible||document.hidden||!viewport.matches)return;
   const dt=Math.min(.04,Math.max(.001,(now-last)/1000));last=now;const duration=hospitality?(replaying?3.6:3):1.5;elapsed=Math.min(duration,elapsed+dt);
   let p=1;if(hospitality)p=replaying?(elapsed<1?1-smooth(elapsed):elapsed<1.35?0:smooth((elapsed-1.35)/2.25)):smooth((elapsed-.4)/2.6);
   const arc=Math.sin(elapsed/duration*Math.PI);
   if(hospitality){layers.forEach((layer,i)=>layer.position.z=i*.13+(1-p)*i*.5);group.rotation.set(-.46,.375-arc*.12,-.42);camera.position.set(.08-arc*.13,.15,10.25+arc*.2);}
   else{group.rotation.set(0,.125-(1-smooth(elapsed/duration))*.2,0);camera.position.set(0,0,10.15+(1-smooth(elapsed/duration))*.2);}
-  camera.lookAt(0,0,hospitality?.45:0);renderer.render(scene,camera);container.classList.add('product-webgl-ready');finished=elapsed>=duration;if(!finished)request();
+  camera.lookAt(0,0,hospitality?.45:0);renderer.render(scene,camera);container.classList.add('product-webgl-ready');finished=elapsed>=duration;if(finished)buttonState(false);else request();
  }
  function request(){if(!raf&&!disposed){raf=requestAnimationFrame(draw);}}
- const replay=()=>{if(!finished)return;elapsed=0;last=performance.now();replaying=true;finished=false;request();};button?.addEventListener('click',replay);
+ const replay=()=>{if(!finished)return;elapsed=0;last=performance.now();replaying=true;finished=false;buttonState(true);request();};button?.addEventListener('click',replay);
  const observer=new IntersectionObserver(entries=>{visible=entries[0].isIntersecting;if(visible){last=performance.now();request();}else{cancelAnimationFrame(raf);raf=0;}},{rootMargin:'80px'});observer.observe(container);
  const resize=new ResizeObserver(()=>{const r=container.getBoundingClientRect();if(r.width&&r.height){renderer.setSize(r.width,r.height,false);camera.aspect=r.width/r.height;camera.updateProjectionMatrix();request();}});resize.observe(container);
  document.addEventListener('visibilitychange',request);viewport.addEventListener('change',request);

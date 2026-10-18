@@ -9,7 +9,7 @@ assert.ok(pages.get('/contact').includes('Доставка сообщений п
 assert.ok((await readFile('dist/404.html','utf8')).includes('Страница не найдена'));
 for(const asset of ['dist/q-poster.svg','dist/favicon.svg','dist/social.png','dist/robots.txt','dist/sitemap.xml'])await access(asset);
 const luminance=hex=>{const c=hex.match(/\w\w/g).map(x=>parseInt(x,16)/255).map(x=>x<=.04045?x/12.92:((x+.055)/1.055)**2.4);return .2126*c[0]+.7152*c[1]+.0722*c[2];};
-for(const [fg,bg,min] of [['181918','f3f3ef',4.5],['444640','e8e8e3',4.5],['f3f3ef','191c1c',4.5],['ffffff','d52d1e',4.5],['c8cec6','191c1c',4.5],['30372a','d8ddd5',4.5]]){const a=luminance(fg),b=luminance(bg),ratio=(Math.max(a,b)+.05)/(Math.min(a,b)+.05);assert.ok(ratio>=min,`contrast ${fg}/${bg}: ${ratio}`);console.log(`Contrast ${fg}/${bg}: ${ratio.toFixed(2)}:1`);}
+for(const [fg,bg,min] of [['f5f5f3','282a2f',4.5],['d0d3d8','34373d',4.5],['f5f5f3','1d1f23',4.5],['ffffff','3c62f2',4.5],['d0d3d8','44474e',4.5],['c9cdd3','252d40',4.5]]){const a=luminance(fg),b=luminance(bg),ratio=(Math.max(a,b)+.05)/(Math.min(a,b)+.05);assert.ok(ratio>=min,`contrast ${fg}/${bg}: ${ratio}`);console.log(`Contrast ${fg}/${bg}: ${ratio.toFixed(2)}:1`);}
 console.log('14 routes, local links/anchors, project statuses, honest form state, 404, metadata and asset presence verified.');
 
 for(const [slug,name] of [['labs','ZERQON Labs'],['ventures','ZERQON Ventures'],['technologies','ZERQON Technologies']]){assert.ok(pages.get('/'+slug).includes('<h1>'+name+'</h1>'));for(const html of pages.values())assert.ok(html.includes(name));assert.ok(pages.get('/').includes('id="division-'+slug+'"'));}

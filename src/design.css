@@ -28,3 +28,11 @@ footer{padding:40px var(--gutter) 25px;background:#1d1f23}.footer-top{display:fl
 /* Motion is confined to the artwork; document geometry is invariant. */
 .sculpture{opacity:calc(1 - max(0,var(--hero-p,0) - .52)*2.1)}.division-card:after{content:'';position:absolute;bottom:0;left:30px;right:30px;height:2px;background:#c9cdd3;transform:scaleX(0);transform-origin:left;transition:transform 700ms var(--ease)}.division-visible:after{transform:scaleX(1)}.division-card[data-division=ventures]:after{background:#ff9155}.division-card[data-division=technologies]:after{background:#7894ff}.replay-motion{visibility:hidden}.project:has(.product-webgl-ready) .replay-motion{visibility:visible}.reduced-motion .replay-motion{display:none}
 @media(max-width:1000px){.product-canvas{display:none}.product-webgl-ready>.metal-link,.product-webgl-ready>.device-stack,.product-webgl-ready>.device-shadow,.product-webgl-ready>.assembly-rule{opacity:1}.sculpture{opacity:1}.division-card:after{left:0;right:0}}
+.visual-caption,.chain-composition .visual-caption,.lab-visual .visual-caption,.assembly-visual .visual-caption{font-size:14px;line-height:1.45}.lab-visual .visual-caption{left:22px;right:22px;bottom:8px}.hero-bottom>span{font-size:14px}
+.replay-motion{min-width:225px;text-align:left;justify-content:flex-start}.replay-motion:disabled{cursor:default;opacity:1;color:#d0d3d8}
+@media(max-width:760px){.hero{height:auto;min-height:0;padding-bottom:110px}.hero-copy{display:flex;flex-direction:column;position:relative;z-index:3}.hero h1{position:static;margin-top:420px;left:auto;right:auto;top:auto}.hero-copy>p{position:static;margin-top:24px;left:auto;right:auto;top:auto;max-width:380px}.hero-actions{position:static;margin-top:24px;left:auto;top:auto;align-self:flex-start}.hero-object-field{top:190px;height:400px}.hero-bottom>span{font-size:14px}}
+@media(max-width:370px){.hero h1{margin-top:400px}.hero-object-field{height:380px}}
+@media(max-width:760px){.hero h1{margin-top:355px}.hero-object-field{height:340px;top:190px}}
+@media(max-width:370px){.hero h1{margin-top:345px}.hero-object-field{height:330px}}
+.hero-actions .button{background:#3c62f2;border-color:#3c62f2}.legal h1{overflow-wrap:anywhere}
+@media(max-width:370px){.legal h1{font-size:26px;letter-spacing:-.04em}}

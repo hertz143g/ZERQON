@@ -21,8 +21,8 @@ export function initScene(container:Element){
  const environment=pmrem.fromScene(room,.035);scene.environment=environment.texture;room.dispose();panels.forEach(mesh=>{mesh.geometry.dispose();(mesh.material as THREE.Material).dispose();});pmrem.dispose();
  // A tiny, deterministic roughness texture provides directional satin grain, not a decorative overlay.
  const grainData=new Uint8Array(128*64*4);let seed=29;
- for(let x=0;x<128;x++){seed=(seed*16807)%2147483647;const line=200+(seed%28);for(let y=0;y<64;y++){const index=(y*128+x)*4;grainData[index]=grainData[index+1]=grainData[index+2]=line+(y%3);grainData[index+3]=255;}}
- const grain=new THREE.DataTexture(grainData,128,64);grain.wrapS=grain.wrapT=THREE.RepeatWrapping;grain.repeat.set(3,1);grain.needsUpdate=true;
+ for(let x=0;x<128;x++){seed=(seed*16807)%2147483647;const line=232+(seed%8);for(let y=0;y<64;y++){const index=(y*128+x)*4;grainData[index]=grainData[index+1]=grainData[index+2]=line+(y%3);grainData[index+3]=255;}}
+ const grain=new THREE.DataTexture(grainData,128,64);grain.wrapS=grain.wrapT=THREE.RepeatWrapping;grain.repeat.set(1,1);grain.needsUpdate=true;
  const material=new THREE.MeshPhysicalMaterial({color:0x9aa8bc,metalness:.94,roughness:.24,roughnessMap:grain,envMapIntensity:1.45,clearcoat:.23,clearcoatRoughness:.32});
  const sideMaterial=new THREE.MeshStandardMaterial({color:0x454f5e,metalness:.9,roughness:.27,envMapIntensity:1.3});
  const group=new THREE.Group();scene.add(group);group.position.set(0,.24,0);

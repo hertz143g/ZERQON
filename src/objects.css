@@ -1,6 +1,5 @@
 /* Original code-native sculptures; layout lives in design.css. */
 .chain-composition{position:absolute;right:0;top:0;width:65%;height:100%;overflow:hidden;perspective:1400px;--chain-p:0}
-.chain-composition .visual-caption{left:auto;right:30px}
 .metal-link{position:absolute;width:220px;height:270px;border:48px solid #c1c7cd;border-radius:48px;left:32%;top:19%;transform:rotateX(27deg) rotateY(-28deg) rotateZ(-25deg);box-shadow:inset 2px 3px 3px #f9fbff,inset -3px -4px 5px #4a5b6e,4px 5px 0 #e3e8ed,21px 25px 0 #536273,23px 28px 0 #d2d7dc,40px 50px 55px #03070d80;background:transparent;border-top-color:#eef1f3;border-bottom-color:#929eaa;border-right-color:#a9b2bc;transition:transform 1.2s var(--ease-out);z-index:2}
 .link-two{left:53%;top:45%;transform:rotateX(37deg) rotateY(25deg) rotateZ(35deg);z-index:3}
 .link-three{width:130px;height:160px;border-width:30px;border-radius:33px;left:15%;top:45%;transform:rotateX(40deg) rotateY(25deg) rotateZ(35deg);z-index:1;opacity:.65}
@@ -16,7 +15,7 @@
 .circuit i{display:block;background:#152221;border:1px solid #a1aba1;width:26px;height:37px}
 .layer-frame{border:12px solid #b9c2c7;box-shadow:inset 0 0 0 1px white,1px 1px 0 #eff3f3,2px 4px 0 #6f808d;transform:translateZ(calc(13px + (1 - var(--assembly-p))*125px))}
 .layer-glass{inset:10px;border:1px solid #d9e2e2;transform:translateZ(calc(18px + (1 - var(--assembly-p))*200px));background:linear-gradient(125deg,#627372,#152b2b 50%,#344a49);box-shadow:inset 1px 2px 0 #b5c1bc,2px 3px 0 #7d918c;border-radius:22px}
-.layer-glass>span{position:absolute;bottom:32px;left:0;right:0;text-align:center;font-size:8px;letter-spacing:.16em;color:#c7d4d0}
+.layer-glass>span{position:absolute;bottom:32px;left:0;right:0;text-align:center;font-size:14px;letter-spacing:.08em;color:#c7d4d0}
 .dial{position:absolute;width:96px;height:96px;border:1px solid #a7bab0;border-radius:50%;left:calc(50% - 48px);top:calc(45% - 48px);box-shadow:inset 0 0 0 8px #82968d0a}
 .dial:before{position:absolute;content:'';width:70px;height:70px;left:11px;top:11px;border:1px solid #8fa79a;border-radius:50%}
 .dial i{position:absolute;left:47px;top:15px;width:1px;height:33px;background:#d3e0d7;transform:rotate(40deg);transform-origin:bottom}
@@ -39,7 +38,6 @@
 .lab-platform i{position:absolute;inset:0;background:linear-gradient(130deg,#e4e7e8,#8f9da5 30%,#d8dfe1);border:1px solid #dbe1e4;border-radius:3px;transform:translateZ(calc(var(--i)* (20px + (1 - var(--lab-p))*20px)));box-shadow:2px 4px 0 #637583,3px 6px 0 #a2b0b7}
 .lab-platform i:nth-child(2n){inset:18px;background:#3a4955;border-color:#7c909e}
 .lab-platform i:last-child:after{content:'';position:absolute;inset:60px;border:22px solid #4e606c;box-shadow:inset 1px 1px 0 white,1px 1px 0 #f5f6f7}
-.lab-visual .visual-caption{left:25%;color:#b2bdc6}
 .capital-network{height:440px;position:relative;--network-p:1;color:#657c95}
 .capital-network svg{height:100%;width:100%;overflow:visible}
 .network-lines path{stroke-dasharray:1;stroke-dashoffset:calc(1 - var(--network-p));opacity:.65}
@@ -59,7 +57,6 @@
 .metal-link{width:145px;height:180px;border-width:32px;left:29%;top:9%;border-radius:31px;box-shadow:inset 1px 2px 2px #f9fbff,inset -2px -3px 4px #4a5b6e,3px 4px 0 #e3e8ed,13px 17px 0 #536273,15px 19px 0 #d2d7dc,25px 35px 35px #03070d60}
 .link-two{left:49%;top:35%}
 .link-three{width:85px;height:105px;border-width:20px;border-radius:22px;left:12%;top:37%}
-.chain-composition .visual-caption{right:30px;font-size:8px}
 .device-stack{transform:rotateX(52deg) rotateY(-7deg) rotateZ(-30deg) scale(.8);top:calc(50% - 155px)}
 .orbit-two{width:190px;height:190px;left:calc(50% - 95px);top:calc(50% - 95px)}
 .orbit-three{width:90px;height:90px;left:calc(50% - 45px);top:calc(50% - 45px)}
@@ -69,7 +66,6 @@
 .nexus-columns{gap:12px;bottom:12%}
 .lab-visual{height:335px;margin-top:25px}
 .lab-platform{transform:rotateX(57deg) rotateY(-8deg) rotateZ(-35deg) scale(.82)}
-.lab-visual .visual-caption{left:10%;font-size:9px}
 .capital-network{height:300px;margin:25px -15px 0}
 .network-label{font-size:8px}
 .device-stack{transform:rotateX(52deg) rotateY(-7deg) rotateZ(-30deg) scale(.73)}
