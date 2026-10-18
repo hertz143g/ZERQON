@@ -39,3 +39,6 @@ footer{padding:40px var(--gutter) 25px;background:#1d1f23}.footer-top{display:fl
 .sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip-path:inset(50%);white-space:nowrap}.brand-word{display:inline-flex!important;align-items:center;line-height:1}.brand-q{display:inline-flex;width:.79em;height:.79em;flex:0 0 .79em;margin-left:-.025em;margin-right:-.005em;transform:translateY(.025em)}.brand-q svg{width:100%;height:100%;overflow:visible}.hero-brand .brand-word{animation:brand-mask 900ms var(--ease) both}.hero-brand>.sr-only{animation:none}.wordmark{display:inline-flex}.footer-wordmark{position:relative}.hero-brand{letter-spacing:-.065em}
 @media(max-width:760px){.hero-brand{font-size:clamp(62px,18.4vw,112px)}}
 .reduced-motion .hero-brand .brand-word{animation:none}
+.atlas-mark{position:absolute;width:75%;height:85%;left:12%;top:5%;filter:drop-shadow(8px 14px 12px #16151e30)}.concept-motif .atlas-mark{width:100%;height:100%;inset:0}.feature-hospitality .assembly-visual .visual-caption{left:12%;bottom:25px;max-width:76%}
+@media(max-width:760px){.feature-hospitality .assembly-visual .visual-caption{left:24px;right:24px;bottom:15px;max-width:none}}
+.project{scroll-margin-top:16px}
