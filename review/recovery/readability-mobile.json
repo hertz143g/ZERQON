@@ -1,0 +1,58 @@
+[
+  {
+    "route": "/",
+    "issues": []
+  },
+  {
+    "route": "/about",
+    "issues": []
+  },
+  {
+    "route": "/companies",
+    "issues": []
+  },
+  {
+    "route": "/companies/chainso",
+    "issues": []
+  },
+  {
+    "route": "/companies/hospitality",
+    "issues": []
+  },
+  {
+    "route": "/companies/atlas",
+    "issues": []
+  },
+  {
+    "route": "/companies/nexus",
+    "issues": []
+  },
+  {
+    "route": "/companies/orbit",
+    "issues": []
+  },
+  {
+    "route": "/labs",
+    "issues": []
+  },
+  {
+    "route": "/ventures",
+    "issues": []
+  },
+  {
+    "route": "/technologies",
+    "issues": []
+  },
+  {
+    "route": "/contact",
+    "issues": []
+  },
+  {
+    "route": "/privacy",
+    "issues": []
+  },
+  {
+    "route": "/legal",
+    "issues": []
+  }
+]

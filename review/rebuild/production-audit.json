@@ -1,0 +1,632 @@
+[
+  {
+    "width": 320,
+    "route": "/",
+    "layout": {
+      "h1": 1,
+      "overflow": false
+    },
+    "issues": []
+  },
+  {
+    "width": 320,
+    "route": "/about",
+    "layout": {
+      "h1": 1,
+      "overflow": false
+    },
+    "issues": []
+  },
+  {
+    "width": 320,
+    "route": "/companies",
+    "layout": {
+      "h1": 1,
+      "overflow": false
+    },
+    "issues": []
+  },
+  {
+    "width": 320,
+    "route": "/companies/chainso",
+    "layout": {
+      "h1": 1,
+      "overflow": false
+    },
+    "issues": []
+  },
+  {
+    "width": 320,
+    "route": "/companies/hospitality",
+    "layout": {
+      "h1": 1,
+      "overflow": false
+    },
+    "issues": []
+  },
+  {
+    "width": 320,
+    "route": "/companies/atlas",
+    "layout": {
+      "h1": 1,
+      "overflow": false
+    },
+    "issues": []
+  },
+  {
+    "width": 320,
+    "route": "/companies/nexus",
+    "layout": {
+      "h1": 1,
+      "overflow": false
+    },
+    "issues": []
+  },
+  {
+    "width": 320,
+    "route": "/companies/orbit",
+    "layout": {
+      "h1": 1,
+      "overflow": false
+    },
+    "issues": []
+  },
+  {
+    "width": 320,
+    "route": "/labs",
+    "layout": {
+      "h1": 1,
+      "overflow": false
+    },
+    "issues": []
+  },
+  {
+    "width": 320,
+    "route": "/ventures",
+    "layout": {
+      "h1": 1,
+      "overflow": false
+    },
+    "issues": []
+  },
+  {
+    "width": 320,
+    "route": "/technologies",
+    "layout": {
+      "h1": 1,
+      "overflow": false
+    },
+    "issues": []
+  },
+  {
+    "width": 320,
+    "route": "/contact",
+    "layout": {
+      "h1": 1,
+      "overflow": false
+    },
+    "issues": []
+  },
+  {
+    "width": 320,
+    "route": "/privacy",
+    "layout": {
+      "h1": 1,
+      "overflow": false
+    },
+    "issues": []
+  },
+  {
+    "width": 320,
+    "route": "/legal",
+    "layout": {
+      "h1": 1,
+      "overflow": false
+    },
+    "issues": []
+  },
+  {
+    "width": 390,
+    "route": "/",
+    "layout": {
+      "h1": 1,
+      "overflow": false
+    },
+    "issues": []
+  },
+  {
+    "width": 390,
+    "route": "/about",
+    "layout": {
+      "h1": 1,
+      "overflow": false
+    },
+    "issues": []
+  },
+  {
+    "width": 390,
+    "route": "/companies",
+    "layout": {
+      "h1": 1,
+      "overflow": false
+    },
+    "issues": []
+  },
+  {
+    "width": 390,
+    "route": "/companies/chainso",
+    "layout": {
+      "h1": 1,
+      "overflow": false
+    },
+    "issues": []
+  },
+  {
+    "width": 390,
+    "route": "/companies/hospitality",
+    "layout": {
+      "h1": 1,
+      "overflow": false
+    },
+    "issues": []
+  },
+  {
+    "width": 390,
+    "route": "/companies/atlas",
+    "layout": {
+      "h1": 1,
+      "overflow": false
+    },
+    "issues": []
+  },
+  {
+    "width": 390,
+    "route": "/companies/nexus",
+    "layout": {
+      "h1": 1,
+      "overflow": false
+    },
+    "issues": []
+  },
+  {
+    "width": 390,
+    "route": "/companies/orbit",
+    "layout": {
+      "h1": 1,
+      "overflow": false
+    },
+    "issues": []
+  },
+  {
+    "width": 390,
+    "route": "/labs",
+    "layout": {
+      "h1": 1,
+      "overflow": false
+    },
+    "issues": []
+  },
+  {
+    "width": 390,
+    "route": "/ventures",
+    "layout": {
+      "h1": 1,
+      "overflow": false
+    },
+    "issues": []
+  },
+  {
+    "width": 390,
+    "route": "/technologies",
+    "layout": {
+      "h1": 1,
+      "overflow": false
+    },
+    "issues": []
+  },
+  {
+    "width": 390,
+    "route": "/contact",
+    "layout": {
+      "h1": 1,
+      "overflow": false
+    },
+    "issues": []
+  },
+  {
+    "width": 390,
+    "route": "/privacy",
+    "layout": {
+      "h1": 1,
+      "overflow": false
+    },
+    "issues": []
+  },
+  {
+    "width": 390,
+    "route": "/legal",
+    "layout": {
+      "h1": 1,
+      "overflow": false
+    },
+    "issues": []
+  },
+  {
+    "width": 768,
+    "route": "/",
+    "layout": {
+      "h1": 1,
+      "overflow": false
+    },
+    "issues": []
+  },
+  {
+    "width": 768,
+    "route": "/about",
+    "layout": {
+      "h1": 1,
+      "overflow": false
+    },
+    "issues": []
+  },
+  {
+    "width": 768,
+    "route": "/companies",
+    "layout": {
+      "h1": 1,
+      "overflow": false
+    },
+    "issues": []
+  },
+  {
+    "width": 768,
+    "route": "/companies/chainso",
+    "layout": {
+      "h1": 1,
+      "overflow": false
+    },
+    "issues": []
+  },
+  {
+    "width": 768,
+    "route": "/companies/hospitality",
+    "layout": {
+      "h1": 1,
+      "overflow": false
+    },
+    "issues": []
+  },
+  {
+    "width": 768,
+    "route": "/companies/atlas",
+    "layout": {
+      "h1": 1,
+      "overflow": false
+    },
+    "issues": []
+  },
+  {
+    "width": 768,
+    "route": "/companies/nexus",
+    "layout": {
+      "h1": 1,
+      "overflow": false
+    },
+    "issues": []
+  },
+  {
+    "width": 768,
+    "route": "/companies/orbit",
+    "layout": {
+      "h1": 1,
+      "overflow": false
+    },
+    "issues": []
+  },
+  {
+    "width": 768,
+    "route": "/labs",
+    "layout": {
+      "h1": 1,
+      "overflow": false
+    },
+    "issues": []
+  },
+  {
+    "width": 768,
+    "route": "/ventures",
+    "layout": {
+      "h1": 1,
+      "overflow": false
+    },
+    "issues": []
+  },
+  {
+    "width": 768,
+    "route": "/technologies",
+    "layout": {
+      "h1": 1,
+      "overflow": false
+    },
+    "issues": []
+  },
+  {
+    "width": 768,
+    "route": "/contact",
+    "layout": {
+      "h1": 1,
+      "overflow": false
+    },
+    "issues": []
+  },
+  {
+    "width": 768,
+    "route": "/privacy",
+    "layout": {
+      "h1": 1,
+      "overflow": false
+    },
+    "issues": []
+  },
+  {
+    "width": 768,
+    "route": "/legal",
+    "layout": {
+      "h1": 1,
+      "overflow": false
+    },
+    "issues": []
+  },
+  {
+    "width": 1440,
+    "route": "/",
+    "layout": {
+      "h1": 1,
+      "overflow": false
+    },
+    "issues": []
+  },
+  {
+    "width": 1440,
+    "route": "/about",
+    "layout": {
+      "h1": 1,
+      "overflow": false
+    },
+    "issues": []
+  },
+  {
+    "width": 1440,
+    "route": "/companies",
+    "layout": {
+      "h1": 1,
+      "overflow": false
+    },
+    "issues": []
+  },
+  {
+    "width": 1440,
+    "route": "/companies/chainso",
+    "layout": {
+      "h1": 1,
+      "overflow": false
+    },
+    "issues": []
+  },
+  {
+    "width": 1440,
+    "route": "/companies/hospitality",
+    "layout": {
+      "h1": 1,
+      "overflow": false
+    },
+    "issues": []
+  },
+  {
+    "width": 1440,
+    "route": "/companies/atlas",
+    "layout": {
+      "h1": 1,
+      "overflow": false
+    },
+    "issues": []
+  },
+  {
+    "width": 1440,
+    "route": "/companies/nexus",
+    "layout": {
+      "h1": 1,
+      "overflow": false
+    },
+    "issues": []
+  },
+  {
+    "width": 1440,
+    "route": "/companies/orbit",
+    "layout": {
+      "h1": 1,
+      "overflow": false
+    },
+    "issues": []
+  },
+  {
+    "width": 1440,
+    "route": "/labs",
+    "layout": {
+      "h1": 1,
+      "overflow": false
+    },
+    "issues": []
+  },
+  {
+    "width": 1440,
+    "route": "/ventures",
+    "layout": {
+      "h1": 1,
+      "overflow": false
+    },
+    "issues": []
+  },
+  {
+    "width": 1440,
+    "route": "/technologies",
+    "layout": {
+      "h1": 1,
+      "overflow": false
+    },
+    "issues": []
+  },
+  {
+    "width": 1440,
+    "route": "/contact",
+    "layout": {
+      "h1": 1,
+      "overflow": false
+    },
+    "issues": []
+  },
+  {
+    "width": 1440,
+    "route": "/privacy",
+    "layout": {
+      "h1": 1,
+      "overflow": false
+    },
+    "issues": []
+  },
+  {
+    "width": 1440,
+    "route": "/legal",
+    "layout": {
+      "h1": 1,
+      "overflow": false
+    },
+    "issues": []
+  },
+  {
+    "width": 2560,
+    "route": "/",
+    "layout": {
+      "h1": 1,
+      "overflow": false
+    },
+    "issues": []
+  },
+  {
+    "width": 2560,
+    "route": "/about",
+    "layout": {
+      "h1": 1,
+      "overflow": false
+    },
+    "issues": []
+  },
+  {
+    "width": 2560,
+    "route": "/companies",
+    "layout": {
+      "h1": 1,
+      "overflow": false
+    },
+    "issues": []
+  },
+  {
+    "width": 2560,
+    "route": "/companies/chainso",
+    "layout": {
+      "h1": 1,
+      "overflow": false
+    },
+    "issues": []
+  },
+  {
+    "width": 2560,
+    "route": "/companies/hospitality",
+    "layout": {
+      "h1": 1,
+      "overflow": false
+    },
+    "issues": []
+  },
+  {
+    "width": 2560,
+    "route": "/companies/atlas",
+    "layout": {
+      "h1": 1,
+      "overflow": false
+    },
+    "issues": []
+  },
+  {
+    "width": 2560,
+    "route": "/companies/nexus",
+    "layout": {
+      "h1": 1,
+      "overflow": false
+    },
+    "issues": []
+  },
+  {
+    "width": 2560,
+    "route": "/companies/orbit",
+    "layout": {
+      "h1": 1,
+      "overflow": false
+    },
+    "issues": []
+  },
+  {
+    "width": 2560,
+    "route": "/labs",
+    "layout": {
+      "h1": 1,
+      "overflow": false
+    },
+    "issues": []
+  },
+  {
+    "width": 2560,
+    "route": "/ventures",
+    "layout": {
+      "h1": 1,
+      "overflow": false
+    },
+    "issues": []
+  },
+  {
+    "width": 2560,
+    "route": "/technologies",
+    "layout": {
+      "h1": 1,
+      "overflow": false
+    },
+    "issues": []
+  },
+  {
+    "width": 2560,
+    "route": "/contact",
+    "layout": {
+      "h1": 1,
+      "overflow": false
+    },
+    "issues": []
+  },
+  {
+    "width": 2560,
+    "route": "/privacy",
+    "layout": {
+      "h1": 1,
+      "overflow": false
+    },
+    "issues": []
+  },
+  {
+    "width": 2560,
+    "route": "/legal",
+    "layout": {
+      "h1": 1,
+      "overflow": false
+    },
+    "issues": []
+  }
+]

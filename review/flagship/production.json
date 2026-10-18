@@ -1,0 +1,72 @@
+[
+  {
+    "h1": "Создаём.Развиваем.Инвестируем.",
+    "overflow": false,
+    "path": "/"
+  },
+  {
+    "h1": "ZERQON.Группа компаний.",
+    "overflow": false,
+    "path": "/about"
+  },
+  {
+    "h1": "Компании и проекты.",
+    "overflow": false,
+    "path": "/companies"
+  },
+  {
+    "h1": "Chainso",
+    "overflow": false,
+    "path": "/companies/chainso"
+  },
+  {
+    "h1": "ZERQONHospitality",
+    "overflow": false,
+    "path": "/companies/hospitality"
+  },
+  {
+    "h1": "Atlas",
+    "overflow": false,
+    "path": "/companies/atlas"
+  },
+  {
+    "h1": "Nexus",
+    "overflow": false,
+    "path": "/companies/nexus"
+  },
+  {
+    "h1": "Orbit",
+    "overflow": false,
+    "path": "/companies/orbit"
+  },
+  {
+    "h1": "ZERQON Labs",
+    "overflow": false,
+    "path": "/labs"
+  },
+  {
+    "h1": "ZERQON Ventures",
+    "overflow": false,
+    "path": "/ventures"
+  },
+  {
+    "h1": "ZERQON Technologies",
+    "overflow": false,
+    "path": "/technologies"
+  },
+  {
+    "h1": "Есть идея?Давайте обсудим.",
+    "overflow": false,
+    "path": "/contact"
+  },
+  {
+    "h1": "Конфиденциальность",
+    "overflow": false,
+    "path": "/privacy"
+  },
+  {
+    "h1": "Правовая информация",
+    "overflow": false,
+    "path": "/legal"
+  }
+]

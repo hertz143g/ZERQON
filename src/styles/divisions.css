@@ -1,0 +1,4 @@
+.divisions{background:#25292f;border-top:1px solid var(--border-subtle);border-bottom:1px solid var(--border-subtle)}
+@media(max-width:760px){.divisions .section-heading p{font-size:16px}}
+.division-page-tagline{font-size:clamp(30px,3.2vw,50px);line-height:1.2;margin-top:32px;max-width:650px;color:#b7c1cf;letter-spacing:-.025em}.tech-hero h1{font-size:clamp(48px,5.4vw,94px);max-width:1350px}.tech-hero>.division-page-tagline{position:relative;z-index:3}.direction-page .lab-layout h1,.direction-page .venture-layout h1{font-size:clamp(42px,4.4vw,78px)}
+@media(max-width:760px){.division-page-tagline{font-size:29px;margin-top:26px}.tech-hero h1{font-size:clamp(33px,9.3vw,50px);overflow-wrap:normal}.direction-page .lab-layout h1,.direction-page .venture-layout h1{font-size:clamp(36px,9.4vw,50px)}}

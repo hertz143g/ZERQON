@@ -1,0 +1,226 @@
+[
+  {
+    "width": 320,
+    "route": "/",
+    "h1": 1,
+    "heroPosition": "relative",
+    "overflow": false,
+    "small": 0
+  },
+  {
+    "width": 320,
+    "route": "/about",
+    "h1": 1,
+    "heroPosition": null,
+    "overflow": false,
+    "small": 0
+  },
+  {
+    "width": 320,
+    "route": "/companies",
+    "h1": 1,
+    "heroPosition": null,
+    "overflow": false,
+    "small": 0
+  },
+  {
+    "width": 320,
+    "route": "/companies/chainso",
+    "h1": 1,
+    "heroPosition": null,
+    "overflow": false,
+    "small": 0
+  },
+  {
+    "width": 320,
+    "route": "/companies/hospitality",
+    "h1": 1,
+    "heroPosition": null,
+    "overflow": false,
+    "small": 0
+  },
+  {
+    "width": 320,
+    "route": "/companies/atlas",
+    "h1": 1,
+    "heroPosition": null,
+    "overflow": false,
+    "small": 0
+  },
+  {
+    "width": 320,
+    "route": "/companies/nexus",
+    "h1": 1,
+    "heroPosition": null,
+    "overflow": false,
+    "small": 0
+  },
+  {
+    "width": 320,
+    "route": "/companies/orbit",
+    "h1": 1,
+    "heroPosition": null,
+    "overflow": false,
+    "small": 0
+  },
+  {
+    "width": 320,
+    "route": "/labs",
+    "h1": 1,
+    "heroPosition": null,
+    "overflow": false,
+    "small": 0
+  },
+  {
+    "width": 320,
+    "route": "/ventures",
+    "h1": 1,
+    "heroPosition": null,
+    "overflow": false,
+    "small": 0
+  },
+  {
+    "width": 320,
+    "route": "/technologies",
+    "h1": 1,
+    "heroPosition": null,
+    "overflow": false,
+    "small": 0
+  },
+  {
+    "width": 320,
+    "route": "/contact",
+    "h1": 1,
+    "heroPosition": null,
+    "overflow": false,
+    "small": 0
+  },
+  {
+    "width": 320,
+    "route": "/privacy",
+    "h1": 1,
+    "heroPosition": null,
+    "overflow": false,
+    "small": 0
+  },
+  {
+    "width": 320,
+    "route": "/legal",
+    "h1": 1,
+    "heroPosition": null,
+    "overflow": false,
+    "small": 0
+  },
+  {
+    "width": 1440,
+    "route": "/",
+    "h1": 1,
+    "heroPosition": "relative",
+    "overflow": false,
+    "small": 0
+  },
+  {
+    "width": 1440,
+    "route": "/about",
+    "h1": 1,
+    "heroPosition": null,
+    "overflow": false,
+    "small": 0
+  },
+  {
+    "width": 1440,
+    "route": "/companies",
+    "h1": 1,
+    "heroPosition": null,
+    "overflow": false,
+    "small": 0
+  },
+  {
+    "width": 1440,
+    "route": "/companies/chainso",
+    "h1": 1,
+    "heroPosition": null,
+    "overflow": false,
+    "small": 0
+  },
+  {
+    "width": 1440,
+    "route": "/companies/hospitality",
+    "h1": 1,
+    "heroPosition": null,
+    "overflow": false,
+    "small": 0
+  },
+  {
+    "width": 1440,
+    "route": "/companies/atlas",
+    "h1": 1,
+    "heroPosition": null,
+    "overflow": false,
+    "small": 0
+  },
+  {
+    "width": 1440,
+    "route": "/companies/nexus",
+    "h1": 1,
+    "heroPosition": null,
+    "overflow": false,
+    "small": 0
+  },
+  {
+    "width": 1440,
+    "route": "/companies/orbit",
+    "h1": 1,
+    "heroPosition": null,
+    "overflow": false,
+    "small": 0
+  },
+  {
+    "width": 1440,
+    "route": "/labs",
+    "h1": 1,
+    "heroPosition": null,
+    "overflow": false,
+    "small": 0
+  },
+  {
+    "width": 1440,
+    "route": "/ventures",
+    "h1": 1,
+    "heroPosition": null,
+    "overflow": false,
+    "small": 0
+  },
+  {
+    "width": 1440,
+    "route": "/technologies",
+    "h1": 1,
+    "heroPosition": null,
+    "overflow": false,
+    "small": 0
+  },
+  {
+    "width": 1440,
+    "route": "/contact",
+    "h1": 1,
+    "heroPosition": null,
+    "overflow": false,
+    "small": 0
+  },
+  {
+    "width": 1440,
+    "route": "/privacy",
+    "h1": 1,
+    "heroPosition": null,
+    "overflow": false,
+    "small": 0
+  },
+  {
+    "width": 1440,
+    "route": "/legal",
+    "h1": 1,
+    "heroPosition": null,
+    "overflow": false,
+    "small": 0
+  }
+]

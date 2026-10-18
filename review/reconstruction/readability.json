@@ -1,0 +1,142 @@
+[
+  {
+    "width": 1440,
+    "route": "/",
+    "issues": []
+  },
+  {
+    "width": 1440,
+    "route": "/about",
+    "issues": []
+  },
+  {
+    "width": 1440,
+    "route": "/companies",
+    "issues": []
+  },
+  {
+    "width": 1440,
+    "route": "/companies/chainso",
+    "issues": []
+  },
+  {
+    "width": 1440,
+    "route": "/companies/hospitality",
+    "issues": []
+  },
+  {
+    "width": 1440,
+    "route": "/companies/atlas",
+    "issues": []
+  },
+  {
+    "width": 1440,
+    "route": "/companies/nexus",
+    "issues": []
+  },
+  {
+    "width": 1440,
+    "route": "/companies/orbit",
+    "issues": []
+  },
+  {
+    "width": 1440,
+    "route": "/labs",
+    "issues": []
+  },
+  {
+    "width": 1440,
+    "route": "/ventures",
+    "issues": []
+  },
+  {
+    "width": 1440,
+    "route": "/technologies",
+    "issues": []
+  },
+  {
+    "width": 1440,
+    "route": "/contact",
+    "issues": []
+  },
+  {
+    "width": 1440,
+    "route": "/privacy",
+    "issues": []
+  },
+  {
+    "width": 1440,
+    "route": "/legal",
+    "issues": []
+  },
+  {
+    "width": 390,
+    "route": "/",
+    "issues": []
+  },
+  {
+    "width": 390,
+    "route": "/about",
+    "issues": []
+  },
+  {
+    "width": 390,
+    "route": "/companies",
+    "issues": []
+  },
+  {
+    "width": 390,
+    "route": "/companies/chainso",
+    "issues": []
+  },
+  {
+    "width": 390,
+    "route": "/companies/hospitality",
+    "issues": []
+  },
+  {
+    "width": 390,
+    "route": "/companies/atlas",
+    "issues": []
+  },
+  {
+    "width": 390,
+    "route": "/companies/nexus",
+    "issues": []
+  },
+  {
+    "width": 390,
+    "route": "/companies/orbit",
+    "issues": []
+  },
+  {
+    "width": 390,
+    "route": "/labs",
+    "issues": []
+  },
+  {
+    "width": 390,
+    "route": "/ventures",
+    "issues": []
+  },
+  {
+    "width": 390,
+    "route": "/technologies",
+    "issues": []
+  },
+  {
+    "width": 390,
+    "route": "/contact",
+    "issues": []
+  },
+  {
+    "width": 390,
+    "route": "/privacy",
+    "issues": []
+  },
+  {
+    "width": 390,
+    "route": "/legal",
+    "issues": []
+  }
+]

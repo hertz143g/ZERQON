@@ -1,0 +1,6540 @@
+[
+  {
+    "width": 320,
+    "route": "/",
+    "layout": {
+      "overflow": true
+    },
+    "issues": [
+      {
+        "opacity": 1,
+        "ratio": 10.89,
+        "selector": "span.",
+        "size": 11,
+        "text": "Независимая группа компаний"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "span.",
+        "size": 12,
+        "text": "Наши компании"
+      },
+      {
+        "opacity": 1,
+        "ratio": 16.04,
+        "selector": "span.",
+        "size": 12,
+        "text": "О ZERQON"
+      },
+      {
+        "opacity": 1,
+        "ratio": 16.04,
+        "selector": "a.",
+        "size": 11,
+        "text": "О группе ↓"
+      },
+      {
+        "opacity": 1,
+        "ratio": 16.04,
+        "selector": "span.",
+        "size": 11,
+        "text": "Build. Own. Scale."
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.",
+        "size": 12,
+        "text": "01"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.",
+        "size": 12,
+        "text": "Группа компаний"
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.35,
+        "selector": "span.",
+        "size": 13,
+        "text": "Build. Создаём компании"
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.02,
+        "selector": "b.",
+        "size": 25,
+        "text": "Build."
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.35,
+        "selector": "span.",
+        "size": 13,
+        "text": "Own. Развиваем технологии"
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.02,
+        "selector": "b.",
+        "size": 25,
+        "text": "Own."
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.35,
+        "selector": "span.",
+        "size": 13,
+        "text": "Scale. Инвестируем в идеи"
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.02,
+        "selector": "b.",
+        "size": 25,
+        "text": "Scale."
+      },
+      {
+        "opacity": 1,
+        "ratio": 14.34,
+        "selector": "span.",
+        "size": 12,
+        "text": "02"
+      },
+      {
+        "opacity": 1,
+        "ratio": 14.34,
+        "selector": "span.",
+        "size": 12,
+        "text": "Портфель"
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.07,
+        "selector": "span.",
+        "size": 11,
+        "text": "Технологии / Программное обеспечение"
+      },
+      {
+        "opacity": 1,
+        "ratio": 12.78,
+        "selector": "span.status active",
+        "size": 11,
+        "text": "Активный проект"
+      },
+      {
+        "opacity": 1,
+        "ratio": 12.78,
+        "selector": "span.project-action",
+        "size": 12,
+        "text": "О проекте ↗"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.54,
+        "selector": "span.",
+        "size": 11,
+        "text": "Ресторанные технологии"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.54,
+        "selector": "span.status development",
+        "size": 11,
+        "text": "В разработке / Концепция"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.54,
+        "selector": "span.project-action",
+        "size": 12,
+        "text": "О проекте ↗"
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.45,
+        "selector": "span.",
+        "size": 11,
+        "text": "Искусственный интеллект"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.status exploration",
+        "size": 12,
+        "text": "Исследование"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.concept-link",
+        "size": 12,
+        "text": "О проекте ↗"
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.45,
+        "selector": "span.",
+        "size": 11,
+        "text": "Инфраструктура / Инструменты разработки"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.status concept",
+        "size": 12,
+        "text": "Концепция"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.concept-link",
+        "size": 12,
+        "text": "О проекте ↗"
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.45,
+        "selector": "span.",
+        "size": 11,
+        "text": "Технологии будущего"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.status exploration",
+        "size": 12,
+        "text": "Исследование"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.concept-link",
+        "size": 12,
+        "text": "О проекте ↗"
+      },
+      {
+        "opacity": 1,
+        "ratio": 6.9,
+        "selector": "p.portfolio-note",
+        "size": 12,
+        "text": "Hospitality, Atlas, Nexus и Orbit — рабочие названия. Визуальные "
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.42,
+        "selector": "span.",
+        "size": 12,
+        "text": "03"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.42,
+        "selector": "span.",
+        "size": 12,
+        "text": "Структура ZERQON"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.7,
+        "selector": "span.",
+        "size": 12,
+        "text": "01"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.7,
+        "selector": "span.",
+        "size": 12,
+        "text": "Исследования"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.7,
+        "selector": "span.",
+        "size": 12,
+        "text": "02"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.7,
+        "selector": "span.",
+        "size": 12,
+        "text": "Инвестиции"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.7,
+        "selector": "span.",
+        "size": 12,
+        "text": "03"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.7,
+        "selector": "span.",
+        "size": 12,
+        "text": "Инженерия"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.",
+        "size": 12,
+        "text": "04"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.",
+        "size": 12,
+        "text": "Люди"
+      },
+      {
+        "opacity": 1,
+        "ratio": 6.45,
+        "selector": "p.",
+        "size": 12,
+        "text": "Сооснователь"
+      },
+      {
+        "opacity": 1,
+        "ratio": 6.45,
+        "selector": "p.",
+        "size": 12,
+        "text": "Сооснователь"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "span.contact-kicker",
+        "size": 12,
+        "text": "Обратная связь"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "p.",
+        "size": 16,
+        "text": "Открыты к технологическому сотрудничеству, новым проектам и инвес"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Компания"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Компании"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Контакты ↗"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Labs"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Ventures"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Technologies"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 11,
+        "text": "© 2026 ZERQON"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 11,
+        "text": "Build. Own. Scale."
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 11,
+        "text": "Конфиденциальность"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 11,
+        "text": "Правовая информация"
+      }
+    ]
+  },
+  {
+    "width": 320,
+    "route": "/about",
+    "layout": {
+      "overflow": true
+    },
+    "issues": [
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.",
+        "size": 12,
+        "text": "ZERQON"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.",
+        "size": 12,
+        "text": "О группе"
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.45,
+        "selector": "span.",
+        "size": 48,
+        "text": "Группа компаний."
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.",
+        "size": 12,
+        "text": "01"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.",
+        "size": 12,
+        "text": "Группа компаний"
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.35,
+        "selector": "span.",
+        "size": 13,
+        "text": "Build. Создаём компании"
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.02,
+        "selector": "b.",
+        "size": 25,
+        "text": "Build."
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.35,
+        "selector": "span.",
+        "size": 13,
+        "text": "Own. Развиваем технологии"
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.02,
+        "selector": "b.",
+        "size": 25,
+        "text": "Own."
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.35,
+        "selector": "span.",
+        "size": 13,
+        "text": "Scale. Инвестируем в идеи"
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.02,
+        "selector": "b.",
+        "size": 25,
+        "text": "Scale."
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.42,
+        "selector": "span.",
+        "size": 12,
+        "text": "03"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.42,
+        "selector": "span.",
+        "size": 12,
+        "text": "Структура ZERQON"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.7,
+        "selector": "span.",
+        "size": 12,
+        "text": "01"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.7,
+        "selector": "span.",
+        "size": 12,
+        "text": "Исследования"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.7,
+        "selector": "span.",
+        "size": 12,
+        "text": "02"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.7,
+        "selector": "span.",
+        "size": 12,
+        "text": "Инвестиции"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.7,
+        "selector": "span.",
+        "size": 12,
+        "text": "03"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.7,
+        "selector": "span.",
+        "size": 12,
+        "text": "Инженерия"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.",
+        "size": 12,
+        "text": "04"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.",
+        "size": 12,
+        "text": "Люди"
+      },
+      {
+        "opacity": 1,
+        "ratio": 6.45,
+        "selector": "p.",
+        "size": 12,
+        "text": "Сооснователь"
+      },
+      {
+        "opacity": 1,
+        "ratio": 6.45,
+        "selector": "p.",
+        "size": 12,
+        "text": "Сооснователь"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "span.contact-kicker",
+        "size": 12,
+        "text": "Обратная связь"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "p.",
+        "size": 16,
+        "text": "Открыты к технологическому сотрудничеству, новым проектам и инвес"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Компания"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Компании"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Контакты ↗"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Labs"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Ventures"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Technologies"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 11,
+        "text": "© 2026 ZERQON"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 11,
+        "text": "Build. Own. Scale."
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 11,
+        "text": "Конфиденциальность"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 11,
+        "text": "Правовая информация"
+      }
+    ]
+  },
+  {
+    "width": 320,
+    "route": "/companies",
+    "layout": {
+      "overflow": false
+    },
+    "issues": [
+      {
+        "opacity": 1,
+        "ratio": 14.34,
+        "selector": "span.",
+        "size": 12,
+        "text": "02"
+      },
+      {
+        "opacity": 1,
+        "ratio": 14.34,
+        "selector": "span.",
+        "size": 12,
+        "text": "Портфель"
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.07,
+        "selector": "span.",
+        "size": 11,
+        "text": "Технологии / Программное обеспечение"
+      },
+      {
+        "opacity": 1,
+        "ratio": 12.78,
+        "selector": "span.status active",
+        "size": 11,
+        "text": "Активный проект"
+      },
+      {
+        "opacity": 1,
+        "ratio": 12.78,
+        "selector": "span.project-action",
+        "size": 12,
+        "text": "О проекте ↗"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.54,
+        "selector": "span.",
+        "size": 11,
+        "text": "Ресторанные технологии"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.54,
+        "selector": "span.status development",
+        "size": 11,
+        "text": "В разработке / Концепция"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.54,
+        "selector": "span.project-action",
+        "size": 12,
+        "text": "О проекте ↗"
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.45,
+        "selector": "span.",
+        "size": 11,
+        "text": "Искусственный интеллект"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.status exploration",
+        "size": 12,
+        "text": "Исследование"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.concept-link",
+        "size": 12,
+        "text": "О проекте ↗"
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.45,
+        "selector": "span.",
+        "size": 11,
+        "text": "Инфраструктура / Инструменты разработки"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.status concept",
+        "size": 12,
+        "text": "Концепция"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.concept-link",
+        "size": 12,
+        "text": "О проекте ↗"
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.45,
+        "selector": "span.",
+        "size": 11,
+        "text": "Технологии будущего"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.status exploration",
+        "size": 12,
+        "text": "Исследование"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.concept-link",
+        "size": 12,
+        "text": "О проекте ↗"
+      },
+      {
+        "opacity": 1,
+        "ratio": 6.9,
+        "selector": "p.portfolio-note",
+        "size": 12,
+        "text": "Hospitality, Atlas, Nexus и Orbit — рабочие названия. Визуальные "
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "span.contact-kicker",
+        "size": 12,
+        "text": "Обратная связь"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "p.",
+        "size": 16,
+        "text": "Открыты к технологическому сотрудничеству, новым проектам и инвес"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Компания"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Компании"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Контакты ↗"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Labs"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Ventures"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Technologies"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 11,
+        "text": "© 2026 ZERQON"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 11,
+        "text": "Build. Own. Scale."
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 11,
+        "text": "Конфиденциальность"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 11,
+        "text": "Правовая информация"
+      }
+    ]
+  },
+  {
+    "width": 320,
+    "route": "/companies/chainso",
+    "layout": {
+      "overflow": true
+    },
+    "issues": [
+      {
+        "opacity": 1,
+        "ratio": 12.78,
+        "selector": "span.status active",
+        "size": 11,
+        "text": "Активный проект"
+      },
+      {
+        "opacity": 1,
+        "ratio": 14.34,
+        "selector": "span.",
+        "size": 12,
+        "text": "01"
+      },
+      {
+        "opacity": 1,
+        "ratio": 14.34,
+        "selector": "span.",
+        "size": 12,
+        "text": "О проекте"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "span.contact-kicker",
+        "size": 12,
+        "text": "Обратная связь"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "p.",
+        "size": 16,
+        "text": "Открыты к технологическому сотрудничеству, новым проектам и инвес"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Компания"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Компании"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Контакты ↗"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Labs"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Ventures"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Technologies"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 11,
+        "text": "© 2026 ZERQON"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 11,
+        "text": "Build. Own. Scale."
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 11,
+        "text": "Конфиденциальность"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 11,
+        "text": "Правовая информация"
+      }
+    ]
+  },
+  {
+    "width": 320,
+    "route": "/companies/hospitality",
+    "layout": {
+      "overflow": true
+    },
+    "issues": [
+      {
+        "opacity": 1,
+        "ratio": 15.42,
+        "selector": "span.status development",
+        "size": 11,
+        "text": "В разработке / Концепция"
+      },
+      {
+        "opacity": 1,
+        "ratio": 14.34,
+        "selector": "span.",
+        "size": 12,
+        "text": "01"
+      },
+      {
+        "opacity": 1,
+        "ratio": 14.34,
+        "selector": "span.",
+        "size": 12,
+        "text": "О проекте"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "span.contact-kicker",
+        "size": 12,
+        "text": "Обратная связь"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "p.",
+        "size": 16,
+        "text": "Открыты к технологическому сотрудничеству, новым проектам и инвес"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Компания"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Компании"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Контакты ↗"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Labs"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Ventures"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Technologies"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 11,
+        "text": "© 2026 ZERQON"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 11,
+        "text": "Build. Own. Scale."
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 11,
+        "text": "Конфиденциальность"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 11,
+        "text": "Правовая информация"
+      }
+    ]
+  },
+  {
+    "width": 320,
+    "route": "/companies/atlas",
+    "layout": {
+      "overflow": true
+    },
+    "issues": [
+      {
+        "opacity": 1,
+        "ratio": 12.9,
+        "selector": "span.status exploration",
+        "size": 11,
+        "text": "Исследование"
+      },
+      {
+        "opacity": 1,
+        "ratio": 14.34,
+        "selector": "span.",
+        "size": 12,
+        "text": "01"
+      },
+      {
+        "opacity": 1,
+        "ratio": 14.34,
+        "selector": "span.",
+        "size": 12,
+        "text": "О проекте"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "span.contact-kicker",
+        "size": 12,
+        "text": "Обратная связь"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "p.",
+        "size": 16,
+        "text": "Открыты к технологическому сотрудничеству, новым проектам и инвес"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Компания"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Компании"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Контакты ↗"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Labs"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Ventures"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Technologies"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 11,
+        "text": "© 2026 ZERQON"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 11,
+        "text": "Build. Own. Scale."
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 11,
+        "text": "Конфиденциальность"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 11,
+        "text": "Правовая информация"
+      }
+    ]
+  },
+  {
+    "width": 320,
+    "route": "/companies/nexus",
+    "layout": {
+      "overflow": true
+    },
+    "issues": [
+      {
+        "opacity": 1,
+        "ratio": 12.62,
+        "selector": "span.status concept",
+        "size": 11,
+        "text": "Концепция"
+      },
+      {
+        "opacity": 1,
+        "ratio": 14.34,
+        "selector": "span.",
+        "size": 12,
+        "text": "01"
+      },
+      {
+        "opacity": 1,
+        "ratio": 14.34,
+        "selector": "span.",
+        "size": 12,
+        "text": "О проекте"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "span.contact-kicker",
+        "size": 12,
+        "text": "Обратная связь"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "p.",
+        "size": 16,
+        "text": "Открыты к технологическому сотрудничеству, новым проектам и инвес"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Компания"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Компании"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Контакты ↗"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Labs"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Ventures"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Technologies"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 11,
+        "text": "© 2026 ZERQON"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 11,
+        "text": "Build. Own. Scale."
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 11,
+        "text": "Конфиденциальность"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 11,
+        "text": "Правовая информация"
+      }
+    ]
+  },
+  {
+    "width": 320,
+    "route": "/companies/orbit",
+    "layout": {
+      "overflow": true
+    },
+    "issues": [
+      {
+        "opacity": 1,
+        "ratio": 15.42,
+        "selector": "span.status exploration",
+        "size": 11,
+        "text": "Исследование"
+      },
+      {
+        "opacity": 1,
+        "ratio": 14.34,
+        "selector": "span.",
+        "size": 12,
+        "text": "01"
+      },
+      {
+        "opacity": 1,
+        "ratio": 14.34,
+        "selector": "span.",
+        "size": 12,
+        "text": "О проекте"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "span.contact-kicker",
+        "size": 12,
+        "text": "Обратная связь"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "p.",
+        "size": 16,
+        "text": "Открыты к технологическому сотрудничеству, новым проектам и инвес"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Компания"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Компании"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Контакты ↗"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Labs"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Ventures"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Technologies"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 11,
+        "text": "© 2026 ZERQON"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 11,
+        "text": "Build. Own. Scale."
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 11,
+        "text": "Конфиденциальность"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 11,
+        "text": "Правовая информация"
+      }
+    ]
+  },
+  {
+    "width": 320,
+    "route": "/labs",
+    "layout": {
+      "overflow": false
+    },
+    "issues": [
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.",
+        "size": 12,
+        "text": "ZERQON Labs"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.",
+        "size": 12,
+        "text": "Исследования и разработка"
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.26,
+        "selector": "span.",
+        "size": 14,
+        "text": "01"
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.26,
+        "selector": "strong.",
+        "size": 14,
+        "text": "Идея"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "span.contact-kicker",
+        "size": 12,
+        "text": "Обратная связь"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "p.",
+        "size": 16,
+        "text": "Открыты к технологическому сотрудничеству, новым проектам и инвес"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Компания"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Компании"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Контакты ↗"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Labs"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Ventures"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Technologies"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 11,
+        "text": "© 2026 ZERQON"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 11,
+        "text": "Build. Own. Scale."
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 11,
+        "text": "Конфиденциальность"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 11,
+        "text": "Правовая информация"
+      }
+    ]
+  },
+  {
+    "width": 320,
+    "route": "/ventures",
+    "layout": {
+      "overflow": false
+    },
+    "issues": [
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.",
+        "size": 12,
+        "text": "ZERQON Ventures"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.",
+        "size": 12,
+        "text": "Инвестиционное направление"
+      },
+      {
+        "opacity": 1,
+        "ratio": 7.62,
+        "selector": "p.portfolio-note",
+        "size": 12,
+        "text": "ZERQON Ventures — инвестиционное направление группы. Не является "
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.23,
+        "selector": "span.contact-kicker",
+        "size": 12,
+        "text": "Обратная связь"
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.23,
+        "selector": "span.",
+        "size": 46,
+        "text": "Давайте обсудим."
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.23,
+        "selector": "p.",
+        "size": 16,
+        "text": "Открыты к технологическому сотрудничеству, новым проектам и инвес"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Компания"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Компании"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Контакты ↗"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Labs"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Ventures"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Technologies"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 11,
+        "text": "© 2026 ZERQON"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 11,
+        "text": "Build. Own. Scale."
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 11,
+        "text": "Конфиденциальность"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 11,
+        "text": "Правовая информация"
+      }
+    ]
+  },
+  {
+    "width": 320,
+    "route": "/technologies",
+    "layout": {
+      "overflow": false
+    },
+    "issues": [
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.",
+        "size": 12,
+        "text": "ZERQON Technologies"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.",
+        "size": 12,
+        "text": "Технологические направления"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "span.contact-kicker",
+        "size": 12,
+        "text": "Обратная связь"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "p.",
+        "size": 16,
+        "text": "Открыты к технологическому сотрудничеству, новым проектам и инвес"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Компания"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Компании"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Контакты ↗"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Labs"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Ventures"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Technologies"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 11,
+        "text": "© 2026 ZERQON"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 11,
+        "text": "Build. Own. Scale."
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 11,
+        "text": "Конфиденциальность"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 11,
+        "text": "Правовая информация"
+      }
+    ]
+  },
+  {
+    "width": 320,
+    "route": "/contact",
+    "layout": {
+      "overflow": false
+    },
+    "issues": [
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.",
+        "size": 12,
+        "text": "Контакты"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.",
+        "size": 12,
+        "text": "Начнём с разговора"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "button.button",
+        "size": 15,
+        "text": "Подготовить обращение ↗"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Компания"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Компании"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Контакты ↗"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Labs"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Ventures"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Technologies"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 11,
+        "text": "© 2026 ZERQON"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 11,
+        "text": "Build. Own. Scale."
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 11,
+        "text": "Конфиденциальность"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 11,
+        "text": "Правовая информация"
+      }
+    ]
+  },
+  {
+    "width": 320,
+    "route": "/privacy",
+    "layout": {
+      "overflow": false
+    },
+    "issues": [
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.",
+        "size": 12,
+        "text": "ZERQON"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.",
+        "size": 12,
+        "text": "Документы"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Компания"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Компании"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Контакты ↗"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Labs"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Ventures"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Technologies"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 11,
+        "text": "© 2026 ZERQON"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 11,
+        "text": "Build. Own. Scale."
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 11,
+        "text": "Конфиденциальность"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 11,
+        "text": "Правовая информация"
+      }
+    ]
+  },
+  {
+    "width": 320,
+    "route": "/legal",
+    "layout": {
+      "overflow": false
+    },
+    "issues": [
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.",
+        "size": 12,
+        "text": "ZERQON"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.",
+        "size": 12,
+        "text": "Документы"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Компания"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Компании"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Контакты ↗"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Labs"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Ventures"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Technologies"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 11,
+        "text": "© 2026 ZERQON"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 11,
+        "text": "Build. Own. Scale."
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 11,
+        "text": "Конфиденциальность"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 11,
+        "text": "Правовая информация"
+      }
+    ]
+  },
+  {
+    "width": 390,
+    "route": "/",
+    "layout": {
+      "overflow": true
+    },
+    "issues": [
+      {
+        "opacity": 1,
+        "ratio": 10.89,
+        "selector": "span.",
+        "size": 11,
+        "text": "Независимая группа компаний"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "span.",
+        "size": 13,
+        "text": "Наши компании"
+      },
+      {
+        "opacity": 1,
+        "ratio": 16.04,
+        "selector": "a.",
+        "size": 11,
+        "text": "О группе ↓"
+      },
+      {
+        "opacity": 1,
+        "ratio": 16.04,
+        "selector": "span.",
+        "size": 11,
+        "text": "Build. Own. Scale."
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.",
+        "size": 12,
+        "text": "01"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.",
+        "size": 12,
+        "text": "Группа компаний"
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.35,
+        "selector": "span.",
+        "size": 13,
+        "text": "Build. Создаём компании"
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.02,
+        "selector": "b.",
+        "size": 25,
+        "text": "Build."
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.35,
+        "selector": "span.",
+        "size": 13,
+        "text": "Own. Развиваем технологии"
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.02,
+        "selector": "b.",
+        "size": 25,
+        "text": "Own."
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.35,
+        "selector": "span.",
+        "size": 13,
+        "text": "Scale. Инвестируем в идеи"
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.02,
+        "selector": "b.",
+        "size": 25,
+        "text": "Scale."
+      },
+      {
+        "opacity": 1,
+        "ratio": 14.34,
+        "selector": "span.",
+        "size": 12,
+        "text": "02"
+      },
+      {
+        "opacity": 1,
+        "ratio": 14.34,
+        "selector": "span.",
+        "size": 12,
+        "text": "Портфель"
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.07,
+        "selector": "span.",
+        "size": 11,
+        "text": "Технологии / Программное обеспечение"
+      },
+      {
+        "opacity": 1,
+        "ratio": 12.78,
+        "selector": "span.status active",
+        "size": 11,
+        "text": "Активный проект"
+      },
+      {
+        "opacity": 1,
+        "ratio": 12.78,
+        "selector": "span.project-action",
+        "size": 12,
+        "text": "О проекте ↗"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.54,
+        "selector": "span.",
+        "size": 11,
+        "text": "Ресторанные технологии"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.54,
+        "selector": "span.status development",
+        "size": 11,
+        "text": "В разработке / Концепция"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.54,
+        "selector": "span.project-action",
+        "size": 12,
+        "text": "О проекте ↗"
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.45,
+        "selector": "span.",
+        "size": 11,
+        "text": "Искусственный интеллект"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.status exploration",
+        "size": 12,
+        "text": "Исследование"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.concept-link",
+        "size": 12,
+        "text": "О проекте ↗"
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.45,
+        "selector": "span.",
+        "size": 11,
+        "text": "Инфраструктура / Инструменты разработки"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.status concept",
+        "size": 12,
+        "text": "Концепция"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.concept-link",
+        "size": 12,
+        "text": "О проекте ↗"
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.45,
+        "selector": "span.",
+        "size": 11,
+        "text": "Технологии будущего"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.status exploration",
+        "size": 12,
+        "text": "Исследование"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.concept-link",
+        "size": 12,
+        "text": "О проекте ↗"
+      },
+      {
+        "opacity": 1,
+        "ratio": 6.9,
+        "selector": "p.portfolio-note",
+        "size": 12,
+        "text": "Hospitality, Atlas, Nexus и Orbit — рабочие названия. Визуальные "
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.42,
+        "selector": "span.",
+        "size": 12,
+        "text": "03"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.42,
+        "selector": "span.",
+        "size": 12,
+        "text": "Структура ZERQON"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.7,
+        "selector": "span.",
+        "size": 12,
+        "text": "01"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.7,
+        "selector": "span.",
+        "size": 12,
+        "text": "Исследования"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.7,
+        "selector": "span.",
+        "size": 12,
+        "text": "02"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.7,
+        "selector": "span.",
+        "size": 12,
+        "text": "Инвестиции"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.7,
+        "selector": "span.",
+        "size": 12,
+        "text": "03"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.7,
+        "selector": "span.",
+        "size": 12,
+        "text": "Инженерия"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.",
+        "size": 12,
+        "text": "04"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.",
+        "size": 12,
+        "text": "Люди"
+      },
+      {
+        "opacity": 1,
+        "ratio": 6.45,
+        "selector": "p.",
+        "size": 12,
+        "text": "Сооснователь"
+      },
+      {
+        "opacity": 1,
+        "ratio": 6.45,
+        "selector": "p.",
+        "size": 12,
+        "text": "Сооснователь"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "span.contact-kicker",
+        "size": 12,
+        "text": "Обратная связь"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "p.",
+        "size": 16,
+        "text": "Открыты к технологическому сотрудничеству, новым проектам и инвес"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Компания"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Компании"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Контакты ↗"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Labs"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Ventures"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Technologies"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 11,
+        "text": "© 2026 ZERQON"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 11,
+        "text": "Build. Own. Scale."
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 11,
+        "text": "Конфиденциальность"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 11,
+        "text": "Правовая информация"
+      }
+    ]
+  },
+  {
+    "width": 390,
+    "route": "/about",
+    "layout": {
+      "overflow": true
+    },
+    "issues": [
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.",
+        "size": 12,
+        "text": "ZERQON"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.",
+        "size": 12,
+        "text": "О группе"
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.45,
+        "selector": "span.",
+        "size": 48,
+        "text": "Группа компаний."
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.",
+        "size": 12,
+        "text": "01"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.",
+        "size": 12,
+        "text": "Группа компаний"
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.35,
+        "selector": "span.",
+        "size": 13,
+        "text": "Build. Создаём компании"
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.02,
+        "selector": "b.",
+        "size": 25,
+        "text": "Build."
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.35,
+        "selector": "span.",
+        "size": 13,
+        "text": "Own. Развиваем технологии"
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.02,
+        "selector": "b.",
+        "size": 25,
+        "text": "Own."
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.35,
+        "selector": "span.",
+        "size": 13,
+        "text": "Scale. Инвестируем в идеи"
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.02,
+        "selector": "b.",
+        "size": 25,
+        "text": "Scale."
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.42,
+        "selector": "span.",
+        "size": 12,
+        "text": "03"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.42,
+        "selector": "span.",
+        "size": 12,
+        "text": "Структура ZERQON"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.7,
+        "selector": "span.",
+        "size": 12,
+        "text": "01"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.7,
+        "selector": "span.",
+        "size": 12,
+        "text": "Исследования"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.7,
+        "selector": "span.",
+        "size": 12,
+        "text": "02"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.7,
+        "selector": "span.",
+        "size": 12,
+        "text": "Инвестиции"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.7,
+        "selector": "span.",
+        "size": 12,
+        "text": "03"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.7,
+        "selector": "span.",
+        "size": 12,
+        "text": "Инженерия"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.",
+        "size": 12,
+        "text": "04"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.",
+        "size": 12,
+        "text": "Люди"
+      },
+      {
+        "opacity": 1,
+        "ratio": 6.45,
+        "selector": "p.",
+        "size": 12,
+        "text": "Сооснователь"
+      },
+      {
+        "opacity": 1,
+        "ratio": 6.45,
+        "selector": "p.",
+        "size": 12,
+        "text": "Сооснователь"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "span.contact-kicker",
+        "size": 12,
+        "text": "Обратная связь"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "p.",
+        "size": 16,
+        "text": "Открыты к технологическому сотрудничеству, новым проектам и инвес"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Компания"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Компании"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Контакты ↗"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Labs"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Ventures"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Technologies"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 11,
+        "text": "© 2026 ZERQON"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 11,
+        "text": "Build. Own. Scale."
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 11,
+        "text": "Конфиденциальность"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 11,
+        "text": "Правовая информация"
+      }
+    ]
+  },
+  {
+    "width": 390,
+    "route": "/companies",
+    "layout": {
+      "overflow": false
+    },
+    "issues": [
+      {
+        "opacity": 1,
+        "ratio": 14.34,
+        "selector": "span.",
+        "size": 12,
+        "text": "02"
+      },
+      {
+        "opacity": 1,
+        "ratio": 14.34,
+        "selector": "span.",
+        "size": 12,
+        "text": "Портфель"
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.07,
+        "selector": "span.",
+        "size": 11,
+        "text": "Технологии / Программное обеспечение"
+      },
+      {
+        "opacity": 1,
+        "ratio": 12.78,
+        "selector": "span.status active",
+        "size": 11,
+        "text": "Активный проект"
+      },
+      {
+        "opacity": 1,
+        "ratio": 12.78,
+        "selector": "span.project-action",
+        "size": 12,
+        "text": "О проекте ↗"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.54,
+        "selector": "span.",
+        "size": 11,
+        "text": "Ресторанные технологии"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.54,
+        "selector": "span.status development",
+        "size": 11,
+        "text": "В разработке / Концепция"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.54,
+        "selector": "span.project-action",
+        "size": 12,
+        "text": "О проекте ↗"
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.45,
+        "selector": "span.",
+        "size": 11,
+        "text": "Искусственный интеллект"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.status exploration",
+        "size": 12,
+        "text": "Исследование"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.concept-link",
+        "size": 12,
+        "text": "О проекте ↗"
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.45,
+        "selector": "span.",
+        "size": 11,
+        "text": "Инфраструктура / Инструменты разработки"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.status concept",
+        "size": 12,
+        "text": "Концепция"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.concept-link",
+        "size": 12,
+        "text": "О проекте ↗"
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.45,
+        "selector": "span.",
+        "size": 11,
+        "text": "Технологии будущего"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.status exploration",
+        "size": 12,
+        "text": "Исследование"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.concept-link",
+        "size": 12,
+        "text": "О проекте ↗"
+      },
+      {
+        "opacity": 1,
+        "ratio": 6.9,
+        "selector": "p.portfolio-note",
+        "size": 12,
+        "text": "Hospitality, Atlas, Nexus и Orbit — рабочие названия. Визуальные "
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "span.contact-kicker",
+        "size": 12,
+        "text": "Обратная связь"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "p.",
+        "size": 16,
+        "text": "Открыты к технологическому сотрудничеству, новым проектам и инвес"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Компания"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Компании"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Контакты ↗"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Labs"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Ventures"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Technologies"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 11,
+        "text": "© 2026 ZERQON"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 11,
+        "text": "Build. Own. Scale."
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 11,
+        "text": "Конфиденциальность"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 11,
+        "text": "Правовая информация"
+      }
+    ]
+  },
+  {
+    "width": 390,
+    "route": "/companies/chainso",
+    "layout": {
+      "overflow": false
+    },
+    "issues": [
+      {
+        "opacity": 1,
+        "ratio": 12.78,
+        "selector": "span.status active",
+        "size": 11,
+        "text": "Активный проект"
+      },
+      {
+        "opacity": 1,
+        "ratio": 14.34,
+        "selector": "span.",
+        "size": 12,
+        "text": "01"
+      },
+      {
+        "opacity": 1,
+        "ratio": 14.34,
+        "selector": "span.",
+        "size": 12,
+        "text": "О проекте"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "span.contact-kicker",
+        "size": 12,
+        "text": "Обратная связь"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "p.",
+        "size": 16,
+        "text": "Открыты к технологическому сотрудничеству, новым проектам и инвес"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Компания"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Компании"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Контакты ↗"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Labs"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Ventures"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Technologies"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 11,
+        "text": "© 2026 ZERQON"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 11,
+        "text": "Build. Own. Scale."
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 11,
+        "text": "Конфиденциальность"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 11,
+        "text": "Правовая информация"
+      }
+    ]
+  },
+  {
+    "width": 390,
+    "route": "/companies/hospitality",
+    "layout": {
+      "overflow": false
+    },
+    "issues": [
+      {
+        "opacity": 1,
+        "ratio": 15.42,
+        "selector": "span.status development",
+        "size": 11,
+        "text": "В разработке / Концепция"
+      },
+      {
+        "opacity": 1,
+        "ratio": 14.34,
+        "selector": "span.",
+        "size": 12,
+        "text": "01"
+      },
+      {
+        "opacity": 1,
+        "ratio": 14.34,
+        "selector": "span.",
+        "size": 12,
+        "text": "О проекте"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "span.contact-kicker",
+        "size": 12,
+        "text": "Обратная связь"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "p.",
+        "size": 16,
+        "text": "Открыты к технологическому сотрудничеству, новым проектам и инвес"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Компания"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Компании"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Контакты ↗"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Labs"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Ventures"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Technologies"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 11,
+        "text": "© 2026 ZERQON"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 11,
+        "text": "Build. Own. Scale."
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 11,
+        "text": "Конфиденциальность"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 11,
+        "text": "Правовая информация"
+      }
+    ]
+  },
+  {
+    "width": 390,
+    "route": "/companies/atlas",
+    "layout": {
+      "overflow": false
+    },
+    "issues": [
+      {
+        "opacity": 1,
+        "ratio": 12.9,
+        "selector": "span.status exploration",
+        "size": 11,
+        "text": "Исследование"
+      },
+      {
+        "opacity": 1,
+        "ratio": 14.34,
+        "selector": "span.",
+        "size": 12,
+        "text": "01"
+      },
+      {
+        "opacity": 1,
+        "ratio": 14.34,
+        "selector": "span.",
+        "size": 12,
+        "text": "О проекте"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "span.contact-kicker",
+        "size": 12,
+        "text": "Обратная связь"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "p.",
+        "size": 16,
+        "text": "Открыты к технологическому сотрудничеству, новым проектам и инвес"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Компания"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Компании"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Контакты ↗"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Labs"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Ventures"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Technologies"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 11,
+        "text": "© 2026 ZERQON"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 11,
+        "text": "Build. Own. Scale."
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 11,
+        "text": "Конфиденциальность"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 11,
+        "text": "Правовая информация"
+      }
+    ]
+  },
+  {
+    "width": 390,
+    "route": "/companies/nexus",
+    "layout": {
+      "overflow": false
+    },
+    "issues": [
+      {
+        "opacity": 1,
+        "ratio": 12.62,
+        "selector": "span.status concept",
+        "size": 11,
+        "text": "Концепция"
+      },
+      {
+        "opacity": 1,
+        "ratio": 14.34,
+        "selector": "span.",
+        "size": 12,
+        "text": "01"
+      },
+      {
+        "opacity": 1,
+        "ratio": 14.34,
+        "selector": "span.",
+        "size": 12,
+        "text": "О проекте"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "span.contact-kicker",
+        "size": 12,
+        "text": "Обратная связь"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "p.",
+        "size": 16,
+        "text": "Открыты к технологическому сотрудничеству, новым проектам и инвес"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Компания"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Компании"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Контакты ↗"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Labs"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Ventures"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Technologies"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 11,
+        "text": "© 2026 ZERQON"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 11,
+        "text": "Build. Own. Scale."
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 11,
+        "text": "Конфиденциальность"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 11,
+        "text": "Правовая информация"
+      }
+    ]
+  },
+  {
+    "width": 390,
+    "route": "/companies/orbit",
+    "layout": {
+      "overflow": false
+    },
+    "issues": [
+      {
+        "opacity": 1,
+        "ratio": 15.42,
+        "selector": "span.status exploration",
+        "size": 11,
+        "text": "Исследование"
+      },
+      {
+        "opacity": 1,
+        "ratio": 14.34,
+        "selector": "span.",
+        "size": 12,
+        "text": "01"
+      },
+      {
+        "opacity": 1,
+        "ratio": 14.34,
+        "selector": "span.",
+        "size": 12,
+        "text": "О проекте"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "span.contact-kicker",
+        "size": 12,
+        "text": "Обратная связь"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "p.",
+        "size": 16,
+        "text": "Открыты к технологическому сотрудничеству, новым проектам и инвес"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Компания"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Компании"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Контакты ↗"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Labs"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Ventures"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Technologies"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 11,
+        "text": "© 2026 ZERQON"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 11,
+        "text": "Build. Own. Scale."
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 11,
+        "text": "Конфиденциальность"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 11,
+        "text": "Правовая информация"
+      }
+    ]
+  },
+  {
+    "width": 390,
+    "route": "/labs",
+    "layout": {
+      "overflow": false
+    },
+    "issues": [
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.",
+        "size": 12,
+        "text": "ZERQON Labs"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.",
+        "size": 12,
+        "text": "Исследования и разработка"
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.26,
+        "selector": "span.",
+        "size": 14,
+        "text": "01"
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.26,
+        "selector": "strong.",
+        "size": 14,
+        "text": "Идея"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "span.contact-kicker",
+        "size": 12,
+        "text": "Обратная связь"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "p.",
+        "size": 16,
+        "text": "Открыты к технологическому сотрудничеству, новым проектам и инвес"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Компания"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Компании"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Контакты ↗"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Labs"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Ventures"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Technologies"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 11,
+        "text": "© 2026 ZERQON"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 11,
+        "text": "Build. Own. Scale."
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 11,
+        "text": "Конфиденциальность"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 11,
+        "text": "Правовая информация"
+      }
+    ]
+  },
+  {
+    "width": 390,
+    "route": "/ventures",
+    "layout": {
+      "overflow": false
+    },
+    "issues": [
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.",
+        "size": 12,
+        "text": "ZERQON Ventures"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.",
+        "size": 12,
+        "text": "Инвестиционное направление"
+      },
+      {
+        "opacity": 1,
+        "ratio": 7.62,
+        "selector": "p.portfolio-note",
+        "size": 12,
+        "text": "ZERQON Ventures — инвестиционное направление группы. Не является "
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.23,
+        "selector": "span.contact-kicker",
+        "size": 12,
+        "text": "Обратная связь"
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.23,
+        "selector": "span.",
+        "size": 55,
+        "text": "Давайте обсудим."
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.23,
+        "selector": "p.",
+        "size": 16,
+        "text": "Открыты к технологическому сотрудничеству, новым проектам и инвес"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Компания"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Компании"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Контакты ↗"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Labs"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Ventures"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Technologies"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 11,
+        "text": "© 2026 ZERQON"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 11,
+        "text": "Build. Own. Scale."
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 11,
+        "text": "Конфиденциальность"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 11,
+        "text": "Правовая информация"
+      }
+    ]
+  },
+  {
+    "width": 390,
+    "route": "/technologies",
+    "layout": {
+      "overflow": false
+    },
+    "issues": [
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.",
+        "size": 12,
+        "text": "ZERQON Technologies"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.",
+        "size": 12,
+        "text": "Технологические направления"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "span.contact-kicker",
+        "size": 12,
+        "text": "Обратная связь"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "p.",
+        "size": 16,
+        "text": "Открыты к технологическому сотрудничеству, новым проектам и инвес"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Компания"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Компании"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Контакты ↗"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Labs"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Ventures"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Technologies"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 11,
+        "text": "© 2026 ZERQON"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 11,
+        "text": "Build. Own. Scale."
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 11,
+        "text": "Конфиденциальность"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 11,
+        "text": "Правовая информация"
+      }
+    ]
+  },
+  {
+    "width": 390,
+    "route": "/contact",
+    "layout": {
+      "overflow": false
+    },
+    "issues": [
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.",
+        "size": 12,
+        "text": "Контакты"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.",
+        "size": 12,
+        "text": "Начнём с разговора"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "button.button",
+        "size": 15,
+        "text": "Подготовить обращение ↗"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Компания"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Компании"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Контакты ↗"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Labs"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Ventures"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Technologies"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 11,
+        "text": "© 2026 ZERQON"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 11,
+        "text": "Build. Own. Scale."
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 11,
+        "text": "Конфиденциальность"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 11,
+        "text": "Правовая информация"
+      }
+    ]
+  },
+  {
+    "width": 390,
+    "route": "/privacy",
+    "layout": {
+      "overflow": false
+    },
+    "issues": [
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.",
+        "size": 12,
+        "text": "ZERQON"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.",
+        "size": 12,
+        "text": "Документы"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Компания"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Компании"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Контакты ↗"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Labs"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Ventures"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Technologies"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 11,
+        "text": "© 2026 ZERQON"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 11,
+        "text": "Build. Own. Scale."
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 11,
+        "text": "Конфиденциальность"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 11,
+        "text": "Правовая информация"
+      }
+    ]
+  },
+  {
+    "width": 390,
+    "route": "/legal",
+    "layout": {
+      "overflow": false
+    },
+    "issues": [
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.",
+        "size": 12,
+        "text": "ZERQON"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.",
+        "size": 12,
+        "text": "Документы"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Компания"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Компании"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "Контакты ↗"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Labs"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Ventures"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.12,
+        "selector": "a.",
+        "size": 12,
+        "text": "ZERQON Technologies"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 11,
+        "text": "© 2026 ZERQON"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 11,
+        "text": "Build. Own. Scale."
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 11,
+        "text": "Конфиденциальность"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 11,
+        "text": "Правовая информация"
+      }
+    ]
+  },
+  {
+    "width": 768,
+    "route": "/",
+    "layout": {
+      "overflow": false
+    },
+    "issues": [
+      {
+        "opacity": 1,
+        "ratio": 10.89,
+        "selector": "span.",
+        "size": 12,
+        "text": "Независимая группа компаний"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.61,
+        "selector": "span.object-annotation",
+        "size": 12,
+        "text": "Q / Пять компонентов"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "span.",
+        "size": 15,
+        "text": "Наши компании"
+      },
+      {
+        "opacity": 1,
+        "ratio": 16.04,
+        "selector": "a.",
+        "size": 12,
+        "text": "О группе ↓"
+      },
+      {
+        "opacity": 1,
+        "ratio": 16.04,
+        "selector": "span.",
+        "size": 12,
+        "text": "Build. Own. Scale."
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.35,
+        "selector": "span.",
+        "size": 13,
+        "text": "Build. Создаём компании"
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.02,
+        "selector": "b.",
+        "size": 28,
+        "text": "Build."
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.35,
+        "selector": "span.",
+        "size": 13,
+        "text": "Own. Развиваем технологии"
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.02,
+        "selector": "b.",
+        "size": 28,
+        "text": "Own."
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.35,
+        "selector": "span.",
+        "size": 13,
+        "text": "Scale. Инвестируем в идеи"
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.02,
+        "selector": "b.",
+        "size": 28,
+        "text": "Scale."
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.07,
+        "selector": "span.",
+        "size": 12,
+        "text": "Технологии / Программное обеспечение"
+      },
+      {
+        "opacity": 1,
+        "ratio": 12.78,
+        "selector": "span.status active",
+        "size": 12,
+        "text": "Активный проект"
+      },
+      {
+        "opacity": 1,
+        "ratio": 12.78,
+        "selector": "span.project-action",
+        "size": 12,
+        "text": "О проекте ↗"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.54,
+        "selector": "span.",
+        "size": 12,
+        "text": "Ресторанные технологии"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.54,
+        "selector": "span.status development",
+        "size": 12,
+        "text": "В разработке / Концепция"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.54,
+        "selector": "span.project-action",
+        "size": 12,
+        "text": "О проекте ↗"
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.45,
+        "selector": "span.",
+        "size": 11,
+        "text": "Искусственный интеллект"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.status exploration",
+        "size": 12,
+        "text": "Исследование"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.concept-link",
+        "size": 12,
+        "text": "О проекте ↗"
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.45,
+        "selector": "span.",
+        "size": 11,
+        "text": "Инфраструктура / Инструменты разработки"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.status concept",
+        "size": 12,
+        "text": "Концепция"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.concept-link",
+        "size": 12,
+        "text": "О проекте ↗"
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.45,
+        "selector": "span.",
+        "size": 11,
+        "text": "Технологии будущего"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.status exploration",
+        "size": 12,
+        "text": "Исследование"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.concept-link",
+        "size": 12,
+        "text": "О проекте ↗"
+      },
+      {
+        "opacity": 1,
+        "ratio": 6.9,
+        "selector": "p.portfolio-note",
+        "size": 12,
+        "text": "Hospitality, Atlas, Nexus и Orbit — рабочие названия. Визуальные "
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.7,
+        "selector": "span.",
+        "size": 12,
+        "text": "01"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.7,
+        "selector": "span.",
+        "size": 12,
+        "text": "Исследования"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.7,
+        "selector": "span.",
+        "size": 12,
+        "text": "02"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.7,
+        "selector": "span.",
+        "size": 12,
+        "text": "Инвестиции"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.7,
+        "selector": "span.",
+        "size": 12,
+        "text": "03"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.7,
+        "selector": "span.",
+        "size": 12,
+        "text": "Инженерия"
+      },
+      {
+        "opacity": 1,
+        "ratio": 6.45,
+        "selector": "p.",
+        "size": 12,
+        "text": "Сооснователь"
+      },
+      {
+        "opacity": 1,
+        "ratio": 6.45,
+        "selector": "p.",
+        "size": 12,
+        "text": "Сооснователь"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "span.contact-kicker",
+        "size": 13,
+        "text": "Обратная связь"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "p.",
+        "size": 18,
+        "text": "Открыты к технологическому сотрудничеству, новым проектам и инвес"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 12,
+        "text": "© 2026 ZERQON"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 12,
+        "text": "Build. Own. Scale."
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 12,
+        "text": "Конфиденциальность"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 12,
+        "text": "Правовая информация"
+      }
+    ]
+  },
+  {
+    "width": 768,
+    "route": "/about",
+    "layout": {
+      "overflow": false
+    },
+    "issues": [
+      {
+        "opacity": 1,
+        "ratio": 1.45,
+        "selector": "span.",
+        "size": 55,
+        "text": "Группа компаний."
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.35,
+        "selector": "span.",
+        "size": 13,
+        "text": "Build. Создаём компании"
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.02,
+        "selector": "b.",
+        "size": 28,
+        "text": "Build."
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.35,
+        "selector": "span.",
+        "size": 13,
+        "text": "Own. Развиваем технологии"
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.02,
+        "selector": "b.",
+        "size": 28,
+        "text": "Own."
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.35,
+        "selector": "span.",
+        "size": 13,
+        "text": "Scale. Инвестируем в идеи"
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.02,
+        "selector": "b.",
+        "size": 28,
+        "text": "Scale."
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.7,
+        "selector": "span.",
+        "size": 12,
+        "text": "01"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.7,
+        "selector": "span.",
+        "size": 12,
+        "text": "Исследования"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.7,
+        "selector": "span.",
+        "size": 12,
+        "text": "02"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.7,
+        "selector": "span.",
+        "size": 12,
+        "text": "Инвестиции"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.7,
+        "selector": "span.",
+        "size": 12,
+        "text": "03"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.7,
+        "selector": "span.",
+        "size": 12,
+        "text": "Инженерия"
+      },
+      {
+        "opacity": 1,
+        "ratio": 6.45,
+        "selector": "p.",
+        "size": 12,
+        "text": "Сооснователь"
+      },
+      {
+        "opacity": 1,
+        "ratio": 6.45,
+        "selector": "p.",
+        "size": 12,
+        "text": "Сооснователь"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "span.contact-kicker",
+        "size": 13,
+        "text": "Обратная связь"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "p.",
+        "size": 18,
+        "text": "Открыты к технологическому сотрудничеству, новым проектам и инвес"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 12,
+        "text": "© 2026 ZERQON"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 12,
+        "text": "Build. Own. Scale."
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 12,
+        "text": "Конфиденциальность"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 12,
+        "text": "Правовая информация"
+      }
+    ]
+  },
+  {
+    "width": 768,
+    "route": "/companies",
+    "layout": {
+      "overflow": false
+    },
+    "issues": [
+      {
+        "opacity": 1,
+        "ratio": 1.07,
+        "selector": "span.",
+        "size": 12,
+        "text": "Технологии / Программное обеспечение"
+      },
+      {
+        "opacity": 1,
+        "ratio": 12.78,
+        "selector": "span.status active",
+        "size": 12,
+        "text": "Активный проект"
+      },
+      {
+        "opacity": 1,
+        "ratio": 12.78,
+        "selector": "span.project-action",
+        "size": 12,
+        "text": "О проекте ↗"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.54,
+        "selector": "span.",
+        "size": 12,
+        "text": "Ресторанные технологии"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.54,
+        "selector": "span.status development",
+        "size": 12,
+        "text": "В разработке / Концепция"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.54,
+        "selector": "span.project-action",
+        "size": 12,
+        "text": "О проекте ↗"
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.45,
+        "selector": "span.",
+        "size": 11,
+        "text": "Искусственный интеллект"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.status exploration",
+        "size": 12,
+        "text": "Исследование"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.concept-link",
+        "size": 12,
+        "text": "О проекте ↗"
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.45,
+        "selector": "span.",
+        "size": 11,
+        "text": "Инфраструктура / Инструменты разработки"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.status concept",
+        "size": 12,
+        "text": "Концепция"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.concept-link",
+        "size": 12,
+        "text": "О проекте ↗"
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.45,
+        "selector": "span.",
+        "size": 11,
+        "text": "Технологии будущего"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.status exploration",
+        "size": 12,
+        "text": "Исследование"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.concept-link",
+        "size": 12,
+        "text": "О проекте ↗"
+      },
+      {
+        "opacity": 1,
+        "ratio": 6.9,
+        "selector": "p.portfolio-note",
+        "size": 12,
+        "text": "Hospitality, Atlas, Nexus и Orbit — рабочие названия. Визуальные "
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "span.contact-kicker",
+        "size": 13,
+        "text": "Обратная связь"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "p.",
+        "size": 18,
+        "text": "Открыты к технологическому сотрудничеству, новым проектам и инвес"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 12,
+        "text": "© 2026 ZERQON"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 12,
+        "text": "Build. Own. Scale."
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 12,
+        "text": "Конфиденциальность"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 12,
+        "text": "Правовая информация"
+      }
+    ]
+  },
+  {
+    "width": 768,
+    "route": "/companies/chainso",
+    "layout": {
+      "overflow": false
+    },
+    "issues": [
+      {
+        "opacity": 1,
+        "ratio": 12.78,
+        "selector": "span.status active",
+        "size": 12,
+        "text": "Активный проект"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "span.contact-kicker",
+        "size": 13,
+        "text": "Обратная связь"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "p.",
+        "size": 18,
+        "text": "Открыты к технологическому сотрудничеству, новым проектам и инвес"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 12,
+        "text": "© 2026 ZERQON"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 12,
+        "text": "Build. Own. Scale."
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 12,
+        "text": "Конфиденциальность"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 12,
+        "text": "Правовая информация"
+      }
+    ]
+  },
+  {
+    "width": 768,
+    "route": "/companies/hospitality",
+    "layout": {
+      "overflow": false
+    },
+    "issues": [
+      {
+        "opacity": 1,
+        "ratio": 15.42,
+        "selector": "span.status development",
+        "size": 12,
+        "text": "В разработке / Концепция"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "span.contact-kicker",
+        "size": 13,
+        "text": "Обратная связь"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "p.",
+        "size": 18,
+        "text": "Открыты к технологическому сотрудничеству, новым проектам и инвес"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 12,
+        "text": "© 2026 ZERQON"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 12,
+        "text": "Build. Own. Scale."
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 12,
+        "text": "Конфиденциальность"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 12,
+        "text": "Правовая информация"
+      }
+    ]
+  },
+  {
+    "width": 768,
+    "route": "/companies/atlas",
+    "layout": {
+      "overflow": false
+    },
+    "issues": [
+      {
+        "opacity": 1,
+        "ratio": 12.9,
+        "selector": "span.status exploration",
+        "size": 12,
+        "text": "Исследование"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "span.contact-kicker",
+        "size": 13,
+        "text": "Обратная связь"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "p.",
+        "size": 18,
+        "text": "Открыты к технологическому сотрудничеству, новым проектам и инвес"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 12,
+        "text": "© 2026 ZERQON"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 12,
+        "text": "Build. Own. Scale."
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 12,
+        "text": "Конфиденциальность"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 12,
+        "text": "Правовая информация"
+      }
+    ]
+  },
+  {
+    "width": 768,
+    "route": "/companies/nexus",
+    "layout": {
+      "overflow": false
+    },
+    "issues": [
+      {
+        "opacity": 1,
+        "ratio": 12.62,
+        "selector": "span.status concept",
+        "size": 12,
+        "text": "Концепция"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "span.contact-kicker",
+        "size": 13,
+        "text": "Обратная связь"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "p.",
+        "size": 18,
+        "text": "Открыты к технологическому сотрудничеству, новым проектам и инвес"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 12,
+        "text": "© 2026 ZERQON"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 12,
+        "text": "Build. Own. Scale."
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 12,
+        "text": "Конфиденциальность"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 12,
+        "text": "Правовая информация"
+      }
+    ]
+  },
+  {
+    "width": 768,
+    "route": "/companies/orbit",
+    "layout": {
+      "overflow": false
+    },
+    "issues": [
+      {
+        "opacity": 1,
+        "ratio": 15.42,
+        "selector": "span.status exploration",
+        "size": 12,
+        "text": "Исследование"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "span.contact-kicker",
+        "size": 13,
+        "text": "Обратная связь"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "p.",
+        "size": 18,
+        "text": "Открыты к технологическому сотрудничеству, новым проектам и инвес"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 12,
+        "text": "© 2026 ZERQON"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 12,
+        "text": "Build. Own. Scale."
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 12,
+        "text": "Конфиденциальность"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 12,
+        "text": "Правовая информация"
+      }
+    ]
+  },
+  {
+    "width": 768,
+    "route": "/labs",
+    "layout": {
+      "overflow": false
+    },
+    "issues": [
+      {
+        "opacity": 1,
+        "ratio": 1.26,
+        "selector": "span.",
+        "size": 14,
+        "text": "01"
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.26,
+        "selector": "strong.",
+        "size": 15,
+        "text": "Идея"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "span.contact-kicker",
+        "size": 13,
+        "text": "Обратная связь"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "p.",
+        "size": 18,
+        "text": "Открыты к технологическому сотрудничеству, новым проектам и инвес"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 12,
+        "text": "© 2026 ZERQON"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 12,
+        "text": "Build. Own. Scale."
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 12,
+        "text": "Конфиденциальность"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 12,
+        "text": "Правовая информация"
+      }
+    ]
+  },
+  {
+    "width": 768,
+    "route": "/ventures",
+    "layout": {
+      "overflow": false
+    },
+    "issues": [
+      {
+        "opacity": 1,
+        "ratio": 7.62,
+        "selector": "p.portfolio-note",
+        "size": 12,
+        "text": "ZERQON Ventures — инвестиционное направление группы. Не является "
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.23,
+        "selector": "span.contact-kicker",
+        "size": 13,
+        "text": "Обратная связь"
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.23,
+        "selector": "span.",
+        "size": 58,
+        "text": "Давайте обсудим."
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.23,
+        "selector": "p.",
+        "size": 18,
+        "text": "Открыты к технологическому сотрудничеству, новым проектам и инвес"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 12,
+        "text": "© 2026 ZERQON"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 12,
+        "text": "Build. Own. Scale."
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 12,
+        "text": "Конфиденциальность"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 12,
+        "text": "Правовая информация"
+      }
+    ]
+  },
+  {
+    "width": 768,
+    "route": "/technologies",
+    "layout": {
+      "overflow": false
+    },
+    "issues": [
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "span.contact-kicker",
+        "size": 13,
+        "text": "Обратная связь"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "p.",
+        "size": 18,
+        "text": "Открыты к технологическому сотрудничеству, новым проектам и инвес"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 12,
+        "text": "© 2026 ZERQON"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 12,
+        "text": "Build. Own. Scale."
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 12,
+        "text": "Конфиденциальность"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 12,
+        "text": "Правовая информация"
+      }
+    ]
+  },
+  {
+    "width": 768,
+    "route": "/contact",
+    "layout": {
+      "overflow": false
+    },
+    "issues": [
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "button.button",
+        "size": 15,
+        "text": "Подготовить обращение ↗"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 12,
+        "text": "© 2026 ZERQON"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 12,
+        "text": "Build. Own. Scale."
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 12,
+        "text": "Конфиденциальность"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 12,
+        "text": "Правовая информация"
+      }
+    ]
+  },
+  {
+    "width": 768,
+    "route": "/privacy",
+    "layout": {
+      "overflow": false
+    },
+    "issues": [
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 12,
+        "text": "© 2026 ZERQON"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 12,
+        "text": "Build. Own. Scale."
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 12,
+        "text": "Конфиденциальность"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 12,
+        "text": "Правовая информация"
+      }
+    ]
+  },
+  {
+    "width": 768,
+    "route": "/legal",
+    "layout": {
+      "overflow": false
+    },
+    "issues": [
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 12,
+        "text": "© 2026 ZERQON"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 12,
+        "text": "Build. Own. Scale."
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 12,
+        "text": "Конфиденциальность"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 12,
+        "text": "Правовая информация"
+      }
+    ]
+  },
+  {
+    "width": 1440,
+    "route": "/",
+    "layout": {
+      "overflow": false
+    },
+    "issues": [
+      {
+        "opacity": 1,
+        "ratio": 10.89,
+        "selector": "span.",
+        "size": 12,
+        "text": "Независимая группа компаний"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.61,
+        "selector": "span.object-annotation",
+        "size": 12,
+        "text": "Q / Пять компонентов"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "span.",
+        "size": 15,
+        "text": "Наши компании"
+      },
+      {
+        "opacity": 1,
+        "ratio": 16.04,
+        "selector": "a.",
+        "size": 12,
+        "text": "О группе ↓"
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.35,
+        "selector": "span.",
+        "size": 13,
+        "text": "Build. Создаём компании"
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.02,
+        "selector": "b.",
+        "size": 28,
+        "text": "Build."
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.35,
+        "selector": "span.",
+        "size": 13,
+        "text": "Own. Развиваем технологии"
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.02,
+        "selector": "b.",
+        "size": 28,
+        "text": "Own."
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.35,
+        "selector": "span.",
+        "size": 13,
+        "text": "Scale. Инвестируем в идеи"
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.02,
+        "selector": "b.",
+        "size": 28,
+        "text": "Scale."
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.07,
+        "selector": "span.",
+        "size": 12,
+        "text": "Технологии / Программное обеспечение"
+      },
+      {
+        "opacity": 1,
+        "ratio": 12.78,
+        "selector": "span.status active",
+        "size": 12,
+        "text": "Активный проект"
+      },
+      {
+        "opacity": 1,
+        "ratio": 12.78,
+        "selector": "span.project-action",
+        "size": 12,
+        "text": "О проекте ↗"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.54,
+        "selector": "span.",
+        "size": 12,
+        "text": "Ресторанные технологии"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.54,
+        "selector": "span.status development",
+        "size": 12,
+        "text": "В разработке / Концепция"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.54,
+        "selector": "span.project-action",
+        "size": 12,
+        "text": "О проекте ↗"
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.45,
+        "selector": "span.",
+        "size": 11,
+        "text": "Искусственный интеллект"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.status exploration",
+        "size": 12,
+        "text": "Исследование"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.concept-link",
+        "size": 12,
+        "text": "О проекте ↗"
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.45,
+        "selector": "span.",
+        "size": 11,
+        "text": "Инфраструктура / Инструменты разработки"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.status concept",
+        "size": 12,
+        "text": "Концепция"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.concept-link",
+        "size": 12,
+        "text": "О проекте ↗"
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.45,
+        "selector": "span.",
+        "size": 11,
+        "text": "Технологии будущего"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.status exploration",
+        "size": 12,
+        "text": "Исследование"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.concept-link",
+        "size": 12,
+        "text": "О проекте ↗"
+      },
+      {
+        "opacity": 1,
+        "ratio": 6.9,
+        "selector": "p.portfolio-note",
+        "size": 12,
+        "text": "Hospitality, Atlas, Nexus и Orbit — рабочие названия. Визуальные "
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.7,
+        "selector": "span.",
+        "size": 12,
+        "text": "01"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.7,
+        "selector": "span.",
+        "size": 12,
+        "text": "Исследования"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.7,
+        "selector": "span.",
+        "size": 12,
+        "text": "02"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.7,
+        "selector": "span.",
+        "size": 12,
+        "text": "Инвестиции"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.7,
+        "selector": "span.",
+        "size": 12,
+        "text": "03"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.7,
+        "selector": "span.",
+        "size": 12,
+        "text": "Инженерия"
+      },
+      {
+        "opacity": 1,
+        "ratio": 6.45,
+        "selector": "p.",
+        "size": 12,
+        "text": "Сооснователь"
+      },
+      {
+        "opacity": 1,
+        "ratio": 6.45,
+        "selector": "p.",
+        "size": 12,
+        "text": "Сооснователь"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "span.contact-kicker",
+        "size": 13,
+        "text": "Обратная связь"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "p.",
+        "size": 18,
+        "text": "Открыты к технологическому сотрудничеству, новым проектам и инвес"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 12,
+        "text": "© 2026 ZERQON"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 12,
+        "text": "Build. Own. Scale."
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 12,
+        "text": "Конфиденциальность"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 12,
+        "text": "Правовая информация"
+      }
+    ]
+  },
+  {
+    "width": 1440,
+    "route": "/about",
+    "layout": {
+      "overflow": false
+    },
+    "issues": [
+      {
+        "opacity": 1,
+        "ratio": 1.45,
+        "selector": "span.",
+        "size": 93.6,
+        "text": "Группа компаний."
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.35,
+        "selector": "span.",
+        "size": 13,
+        "text": "Build. Создаём компании"
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.02,
+        "selector": "b.",
+        "size": 28,
+        "text": "Build."
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.35,
+        "selector": "span.",
+        "size": 13,
+        "text": "Own. Развиваем технологии"
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.02,
+        "selector": "b.",
+        "size": 28,
+        "text": "Own."
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.35,
+        "selector": "span.",
+        "size": 13,
+        "text": "Scale. Инвестируем в идеи"
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.02,
+        "selector": "b.",
+        "size": 28,
+        "text": "Scale."
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.7,
+        "selector": "span.",
+        "size": 12,
+        "text": "01"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.7,
+        "selector": "span.",
+        "size": 12,
+        "text": "Исследования"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.7,
+        "selector": "span.",
+        "size": 12,
+        "text": "02"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.7,
+        "selector": "span.",
+        "size": 12,
+        "text": "Инвестиции"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.7,
+        "selector": "span.",
+        "size": 12,
+        "text": "03"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.7,
+        "selector": "span.",
+        "size": 12,
+        "text": "Инженерия"
+      },
+      {
+        "opacity": 1,
+        "ratio": 6.45,
+        "selector": "p.",
+        "size": 12,
+        "text": "Сооснователь"
+      },
+      {
+        "opacity": 1,
+        "ratio": 6.45,
+        "selector": "p.",
+        "size": 12,
+        "text": "Сооснователь"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "span.contact-kicker",
+        "size": 13,
+        "text": "Обратная связь"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "p.",
+        "size": 18,
+        "text": "Открыты к технологическому сотрудничеству, новым проектам и инвес"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 12,
+        "text": "© 2026 ZERQON"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 12,
+        "text": "Build. Own. Scale."
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 12,
+        "text": "Конфиденциальность"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 12,
+        "text": "Правовая информация"
+      }
+    ]
+  },
+  {
+    "width": 1440,
+    "route": "/companies",
+    "layout": {
+      "overflow": false
+    },
+    "issues": [
+      {
+        "opacity": 1,
+        "ratio": 1.07,
+        "selector": "span.",
+        "size": 12,
+        "text": "Технологии / Программное обеспечение"
+      },
+      {
+        "opacity": 1,
+        "ratio": 12.78,
+        "selector": "span.status active",
+        "size": 12,
+        "text": "Активный проект"
+      },
+      {
+        "opacity": 1,
+        "ratio": 12.78,
+        "selector": "span.project-action",
+        "size": 12,
+        "text": "О проекте ↗"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.54,
+        "selector": "span.",
+        "size": 12,
+        "text": "Ресторанные технологии"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.54,
+        "selector": "span.status development",
+        "size": 12,
+        "text": "В разработке / Концепция"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.54,
+        "selector": "span.project-action",
+        "size": 12,
+        "text": "О проекте ↗"
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.45,
+        "selector": "span.",
+        "size": 11,
+        "text": "Искусственный интеллект"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.status exploration",
+        "size": 12,
+        "text": "Исследование"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.concept-link",
+        "size": 12,
+        "text": "О проекте ↗"
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.45,
+        "selector": "span.",
+        "size": 11,
+        "text": "Инфраструктура / Инструменты разработки"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.status concept",
+        "size": 12,
+        "text": "Концепция"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.concept-link",
+        "size": 12,
+        "text": "О проекте ↗"
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.45,
+        "selector": "span.",
+        "size": 11,
+        "text": "Технологии будущего"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.status exploration",
+        "size": 12,
+        "text": "Исследование"
+      },
+      {
+        "opacity": 1,
+        "ratio": 15.85,
+        "selector": "span.concept-link",
+        "size": 12,
+        "text": "О проекте ↗"
+      },
+      {
+        "opacity": 1,
+        "ratio": 6.9,
+        "selector": "p.portfolio-note",
+        "size": 12,
+        "text": "Hospitality, Atlas, Nexus и Orbit — рабочие названия. Визуальные "
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "span.contact-kicker",
+        "size": 13,
+        "text": "Обратная связь"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "p.",
+        "size": 18,
+        "text": "Открыты к технологическому сотрудничеству, новым проектам и инвес"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 12,
+        "text": "© 2026 ZERQON"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 12,
+        "text": "Build. Own. Scale."
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 12,
+        "text": "Конфиденциальность"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 12,
+        "text": "Правовая информация"
+      }
+    ]
+  },
+  {
+    "width": 1440,
+    "route": "/companies/chainso",
+    "layout": {
+      "overflow": false
+    },
+    "issues": [
+      {
+        "opacity": 1,
+        "ratio": 12.78,
+        "selector": "span.status active",
+        "size": 12,
+        "text": "Активный проект"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "span.contact-kicker",
+        "size": 13,
+        "text": "Обратная связь"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "p.",
+        "size": 18,
+        "text": "Открыты к технологическому сотрудничеству, новым проектам и инвес"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 12,
+        "text": "© 2026 ZERQON"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 12,
+        "text": "Build. Own. Scale."
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 12,
+        "text": "Конфиденциальность"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 12,
+        "text": "Правовая информация"
+      }
+    ]
+  },
+  {
+    "width": 1440,
+    "route": "/companies/hospitality",
+    "layout": {
+      "overflow": false
+    },
+    "issues": [
+      {
+        "opacity": 1,
+        "ratio": 15.42,
+        "selector": "span.status development",
+        "size": 12,
+        "text": "В разработке / Концепция"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "span.contact-kicker",
+        "size": 13,
+        "text": "Обратная связь"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "p.",
+        "size": 18,
+        "text": "Открыты к технологическому сотрудничеству, новым проектам и инвес"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 12,
+        "text": "© 2026 ZERQON"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 12,
+        "text": "Build. Own. Scale."
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 12,
+        "text": "Конфиденциальность"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 12,
+        "text": "Правовая информация"
+      }
+    ]
+  },
+  {
+    "width": 1440,
+    "route": "/companies/atlas",
+    "layout": {
+      "overflow": false
+    },
+    "issues": [
+      {
+        "opacity": 1,
+        "ratio": 12.9,
+        "selector": "span.status exploration",
+        "size": 12,
+        "text": "Исследование"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "span.contact-kicker",
+        "size": 13,
+        "text": "Обратная связь"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "p.",
+        "size": 18,
+        "text": "Открыты к технологическому сотрудничеству, новым проектам и инвес"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 12,
+        "text": "© 2026 ZERQON"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 12,
+        "text": "Build. Own. Scale."
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 12,
+        "text": "Конфиденциальность"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 12,
+        "text": "Правовая информация"
+      }
+    ]
+  },
+  {
+    "width": 1440,
+    "route": "/companies/nexus",
+    "layout": {
+      "overflow": false
+    },
+    "issues": [
+      {
+        "opacity": 1,
+        "ratio": 12.62,
+        "selector": "span.status concept",
+        "size": 12,
+        "text": "Концепция"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "span.contact-kicker",
+        "size": 13,
+        "text": "Обратная связь"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "p.",
+        "size": 18,
+        "text": "Открыты к технологическому сотрудничеству, новым проектам и инвес"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 12,
+        "text": "© 2026 ZERQON"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 12,
+        "text": "Build. Own. Scale."
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 12,
+        "text": "Конфиденциальность"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 12,
+        "text": "Правовая информация"
+      }
+    ]
+  },
+  {
+    "width": 1440,
+    "route": "/companies/orbit",
+    "layout": {
+      "overflow": false
+    },
+    "issues": [
+      {
+        "opacity": 1,
+        "ratio": 15.42,
+        "selector": "span.status exploration",
+        "size": 12,
+        "text": "Исследование"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "span.contact-kicker",
+        "size": 13,
+        "text": "Обратная связь"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "p.",
+        "size": 18,
+        "text": "Открыты к технологическому сотрудничеству, новым проектам и инвес"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 12,
+        "text": "© 2026 ZERQON"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 12,
+        "text": "Build. Own. Scale."
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 12,
+        "text": "Конфиденциальность"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 12,
+        "text": "Правовая информация"
+      }
+    ]
+  },
+  {
+    "width": 1440,
+    "route": "/labs",
+    "layout": {
+      "overflow": false
+    },
+    "issues": [
+      {
+        "opacity": 1,
+        "ratio": 1.26,
+        "selector": "span.",
+        "size": 14,
+        "text": "01"
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.26,
+        "selector": "strong.",
+        "size": 15,
+        "text": "Идея"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "span.contact-kicker",
+        "size": 13,
+        "text": "Обратная связь"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "p.",
+        "size": 18,
+        "text": "Открыты к технологическому сотрудничеству, новым проектам и инвес"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 12,
+        "text": "© 2026 ZERQON"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 12,
+        "text": "Build. Own. Scale."
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 12,
+        "text": "Конфиденциальность"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 12,
+        "text": "Правовая информация"
+      }
+    ]
+  },
+  {
+    "width": 1440,
+    "route": "/ventures",
+    "layout": {
+      "overflow": false
+    },
+    "issues": [
+      {
+        "opacity": 1,
+        "ratio": 7.62,
+        "selector": "p.portfolio-note",
+        "size": 12,
+        "text": "ZERQON Ventures — инвестиционное направление группы. Не является "
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.23,
+        "selector": "span.contact-kicker",
+        "size": 13,
+        "text": "Обратная связь"
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.23,
+        "selector": "span.",
+        "size": 86.4,
+        "text": "Давайте обсудим."
+      },
+      {
+        "opacity": 1,
+        "ratio": 1.23,
+        "selector": "p.",
+        "size": 18,
+        "text": "Открыты к технологическому сотрудничеству, новым проектам и инвес"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 12,
+        "text": "© 2026 ZERQON"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 12,
+        "text": "Build. Own. Scale."
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 12,
+        "text": "Конфиденциальность"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 12,
+        "text": "Правовая информация"
+      }
+    ]
+  },
+  {
+    "width": 1440,
+    "route": "/technologies",
+    "layout": {
+      "overflow": false
+    },
+    "issues": [
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "span.contact-kicker",
+        "size": 13,
+        "text": "Обратная связь"
+      },
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "p.",
+        "size": 18,
+        "text": "Открыты к технологическому сотрудничеству, новым проектам и инвес"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 12,
+        "text": "© 2026 ZERQON"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 12,
+        "text": "Build. Own. Scale."
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 12,
+        "text": "Конфиденциальность"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 12,
+        "text": "Правовая информация"
+      }
+    ]
+  },
+  {
+    "width": 1440,
+    "route": "/contact",
+    "layout": {
+      "overflow": false
+    },
+    "issues": [
+      {
+        "opacity": 1,
+        "ratio": 4.32,
+        "selector": "button.button",
+        "size": 15,
+        "text": "Подготовить обращение ↗"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 12,
+        "text": "© 2026 ZERQON"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 12,
+        "text": "Build. Own. Scale."
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 12,
+        "text": "Конфиденциальность"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 12,
+        "text": "Правовая информация"
+      }
+    ]
+  },
+  {
+    "width": 1440,
+    "route": "/privacy",
+    "layout": {
+      "overflow": false
+    },
+    "issues": [
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 12,
+        "text": "© 2026 ZERQON"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 12,
+        "text": "Build. Own. Scale."
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 12,
+        "text": "Конфиденциальность"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 12,
+        "text": "Правовая информация"
+      }
+    ]
+  },
+  {
+    "width": 1440,
+    "route": "/legal",
+    "layout": {
+      "overflow": false
+    },
+    "issues": [
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 12,
+        "text": "© 2026 ZERQON"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "span.",
+        "size": 12,
+        "text": "Build. Own. Scale."
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 12,
+        "text": "Конфиденциальность"
+      },
+      {
+        "opacity": 1,
+        "ratio": 10.03,
+        "selector": "a.",
+        "size": 12,
+        "text": "Правовая информация"
+      }
+    ]
+  }
+]
