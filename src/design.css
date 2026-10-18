@@ -42,3 +42,5 @@ footer{padding:40px var(--gutter) 25px;background:#1d1f23}.footer-top{display:fl
 .atlas-mark{position:absolute;width:75%;height:85%;left:12%;top:5%;filter:drop-shadow(8px 14px 12px #16151e30)}.concept-motif .atlas-mark{width:100%;height:100%;inset:0}.feature-hospitality .assembly-visual .visual-caption{left:12%;bottom:25px;max-width:76%}
 @media(max-width:760px){.feature-hospitality .assembly-visual .visual-caption{left:24px;right:24px;bottom:15px;max-width:none}}
 .project{scroll-margin-top:16px}
+.layer-glass{background:linear-gradient(125deg,#667079,#202831 52%,#414a54);border-color:#c9cdd3}.dial i{background:#ff9155}.circuit{border-color:#a5a097}.circuit i{background:#34373d;border-color:#c0b7a7}
+.hero-bottom{background:#282a2f;padding-bottom:8px}
