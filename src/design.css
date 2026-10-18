@@ -44,3 +44,5 @@ footer{padding:40px var(--gutter) 25px;background:#1d1f23}.footer-top{display:fl
 .project{scroll-margin-top:16px}
 .layer-glass{background:linear-gradient(125deg,#667079,#202831 52%,#414a54);border-color:#c9cdd3}.dial i{background:#ff9155}.circuit{border-color:#a5a097}.circuit i{background:#34373d;border-color:#c0b7a7}
 .hero-bottom{background:#282a2f;padding-bottom:8px}
+.sculpture.snap-reset canvas{opacity:0!important;transition:none!important}.sculpture.snap-reset .q-fallback{opacity:1!important;transition:none!important}
+@media(max-width:1000px){.replay-motion{display:none}}

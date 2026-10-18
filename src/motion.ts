@@ -6,8 +6,8 @@ export function initMotion(reduced:boolean){
  if(reduced)return;
  document.documentElement.classList.add('motion-ready');
  const hero=document.querySelector<HTMLElement>('.hero');
- if(hero){let frame=0,x=0,y=0;const fine=matchMedia('(hover:hover) and (pointer:fine) and (min-width:1001px)');
-  const update=()=>{frame=0;const rect=hero.getBoundingClientRect(),progress=Math.max(0,Math.min(1,-rect.top/(rect.height*.85)));hero.style.setProperty('--hero-p',progress.toFixed(4));setHeroState({progress,x,y});};
+ if(hero){let frame=0,x=0,y=0,lastScroll=scrollY;const fine=matchMedia('(hover:hover) and (pointer:fine) and (min-width:1001px)');
+  const update=()=>{frame=0;const rect=hero.getBoundingClientRect(),progress=Math.max(0,Math.min(1,-rect.top/(rect.height*.85)));hero.style.setProperty('--hero-p',progress.toFixed(4));const snap=Math.abs(scrollY-lastScroll)>innerHeight*.7;lastScroll=scrollY;setHeroState({progress,x,y,snap});};
   const schedule=()=>{if(!frame)frame=requestAnimationFrame(update);};
   const pointer=(event:PointerEvent)=>{if(!fine.matches||event.pointerType==='touch')return;const r=hero.getBoundingClientRect();x=Math.max(-1,Math.min(1,(event.clientX-r.left)/r.width*2-1));y=Math.max(-1,Math.min(1,(event.clientY-r.top)/r.height*2-1));schedule();};
   hero.addEventListener('pointermove',pointer,{passive:true});hero.addEventListener('pointerleave',()=>{x=0;y=0;schedule();});

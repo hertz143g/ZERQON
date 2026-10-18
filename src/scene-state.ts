@@ -1,4 +1,4 @@
-export type HeroState={progress:number;x:number;y:number};
+export type HeroState={progress:number;x:number;y:number;snap?:boolean};
 let state:HeroState={progress:0,x:0,y:0};
 const listeners=new Set<(state:HeroState)=>void>();
 export const getHeroState=()=>state;

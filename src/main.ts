@@ -22,7 +22,7 @@ initLabTabs();
 const saveData=(navigator as Navigator&{connection?:{saveData?:boolean}}).connection?.saveData;
 const viewport=matchMedia('(min-width:1001px)');
 let sceneLoaded=false;
-const tryScene=()=>{if(sceneLoaded||saveData||reduced||!viewport.matches||path!=='/'||new URLSearchParams(location.search).get('webgl')==='off')return;const container=document.querySelector('.hero .sculpture');if(container){sceneLoaded=true;const load=new IntersectionObserver(entries=>{if(entries[0].isIntersecting){load.disconnect();import('./scene').then(m=>m.initScene(container)).catch(()=>{});}});load.observe(container);}};
+const tryScene=()=>{if(sceneLoaded||saveData||reduced||!viewport.matches||path!=='/'||new URLSearchParams(location.search).get('webgl')==='off')return;const container=document.querySelector('.hero .sculpture');if(container){sceneLoaded=true;const load=new IntersectionObserver(entries=>{if(entries.some(entry=>entry.isIntersecting)){load.disconnect();import('./scene').then(m=>m.initScene(container)).catch(()=>{});}});load.observe(container);}};
 tryScene();viewport.addEventListener('change',tryScene);
 
 if(!saveData&&!reduced&&new URLSearchParams(location.search).get('webgl')!=='off'){
