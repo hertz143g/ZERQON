@@ -2,12 +2,12 @@ import * as THREE from 'three';
 import {RoomEnvironment} from 'three/addons/environments/RoomEnvironment.js';
 import {getHeroState,subscribeHero} from './scene-state';
 import {qSegments,qOffsets,qRest} from './hero-geometry';
-/** Original five-part Q. Draw once; redraw only for resize or visibility restoration. */
+/** Original five-part Q. Bounded product-film lighting and camera motion; demand rendering. */
 export function initScene(container:Element){
  let renderer:THREE.WebGLRenderer;
  const lowPower=navigator.hardwareConcurrency<=4;
  try{renderer=new THREE.WebGLRenderer({alpha:true,antialias:!lowPower&&devicePixelRatio<2,powerPreference:'low-power'});}catch{return;}
- renderer.setPixelRatio(Math.min(devicePixelRatio,lowPower?1.25:1.5));
+ renderer.setPixelRatio(Math.min(devicePixelRatio,lowPower?1:1.25));
  renderer.setClearColor(0x25292f,0);renderer.outputColorSpace=THREE.SRGBColorSpace;
  renderer.toneMapping=THREE.ACESFilmicToneMapping;renderer.toneMappingExposure=1.04;
  renderer.shadowMap.enabled=true;renderer.shadowMap.type=THREE.PCFSoftShadowMap;
@@ -40,7 +40,7 @@ export function initScene(container:Element){
  const shadowData=new Uint8Array(128*128*4);for(let y=0;y<128;y++)for(let x=0;x<128;x++){const i=(y*128+x)*4;const r=((x-64)/47)**2+((y-64)/38)**2;shadowData[i]=12;shadowData[i+1]=15;shadowData[i+2]=21;shadowData[i+3]=Math.round(Math.exp(-r*2.7)*65);}
  const contactTexture=new THREE.DataTexture(shadowData,128,128);contactTexture.needsUpdate=true;
  const contactMaterial=new THREE.MeshBasicMaterial({map:contactTexture,transparent:true,depthWrite:false});const contactShadow=new THREE.Mesh(new THREE.PlaneGeometry(8,5),contactMaterial);contactShadow.rotation.x=-Math.PI/2;contactShadow.position.set(.1,-2.65,0);scene.add(contactShadow);
- const key=new THREE.DirectionalLight(0xf3f5ff,2.6);key.position.set(-4.5,7,4);key.castShadow=true;key.shadow.mapSize.set(lowPower?512:1024,lowPower?512:1024);key.shadow.camera.left=-5;key.shadow.camera.right=5;key.shadow.camera.top=5;key.shadow.camera.bottom=-5;key.shadow.normalBias=.028;key.shadow.bias=-.00008;key.shadow.radius=9;scene.add(key);
+ const key=new THREE.DirectionalLight(0xf3f5ff,2.6);key.position.set(-4.5,7,4);key.castShadow=true;key.shadow.mapSize.set(512,512);key.shadow.camera.left=-5;key.shadow.camera.right=5;key.shadow.camera.top=5;key.shadow.camera.bottom=-5;key.shadow.normalBias=.028;key.shadow.bias=-.00008;key.shadow.radius=9;scene.add(key);
  const fill=new THREE.DirectionalLight(0x7894ff,2.2);fill.position.set(5,1,-3);scene.add(fill);const warm=new THREE.DirectionalLight(0xffcb9c,.65);warm.position.set(-4,0,-2);scene.add(warm);scene.add(new THREE.HemisphereLight(0xe3ecff,0x303740,.7));
  group.rotation.set(...qRest.rotation as [number,number,number]);group.scale.setScalar(qRest.scale);
  camera.position.set(...qRest.camera as [number,number,number]);camera.lookAt(0,.12,0);

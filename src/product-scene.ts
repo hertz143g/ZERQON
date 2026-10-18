@@ -50,6 +50,7 @@ export function initProductScene(container:HTMLElement){
   const arc=Math.sin(elapsed/duration*Math.PI);
   if(hospitality){layers.forEach((layer,i)=>layer.position.z=i*.13+(1-p)*i*.5);group.rotation.set(-.46,.375-arc*.12,-.42);camera.position.set(.08-arc*.13,.15,10.25+arc*.2);}
   else{group.rotation.set(0,.125-(1-smooth(elapsed/duration))*.2,0);camera.position.set(0,0,10.15+(1-smooth(elapsed/duration))*.2);}
+  const phase=p<.2?'exploded':p>.995?'assembled':'assembling';if(container.dataset.phase!==phase)container.dataset.phase=phase;
   camera.lookAt(0,0,hospitality?.45:0);renderer.render(scene,camera);container.classList.add('product-webgl-ready');finished=elapsed>=duration;if(finished)buttonState(false);else request();
  }
  function request(){if(!raf&&!disposed){raf=requestAnimationFrame(draw);}}

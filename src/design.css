@@ -36,3 +36,6 @@ footer{padding:40px var(--gutter) 25px;background:#1d1f23}.footer-top{display:fl
 @media(max-width:370px){.hero h1{margin-top:345px}.hero-object-field{height:330px}}
 .hero-actions .button{background:#3c62f2;border-color:#3c62f2}.legal h1{overflow-wrap:anywhere}
 @media(max-width:370px){.legal h1{font-size:26px;letter-spacing:-.04em}}
+.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip-path:inset(50%);white-space:nowrap}.brand-word{display:inline-flex!important;align-items:center;line-height:1}.brand-q{display:inline-flex;width:.79em;height:.79em;flex:0 0 .79em;margin-left:-.025em;margin-right:-.005em;transform:translateY(.025em)}.brand-q svg{width:100%;height:100%;overflow:visible}.hero-brand .brand-word{animation:brand-mask 900ms var(--ease) both}.hero-brand>.sr-only{animation:none}.wordmark{display:inline-flex}.footer-wordmark{position:relative}.hero-brand{letter-spacing:-.065em}
+@media(max-width:760px){.hero-brand{font-size:clamp(62px,18.4vw,112px)}}
+.reduced-motion .hero-brand .brand-word{animation:none}
